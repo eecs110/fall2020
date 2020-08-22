@@ -1,0 +1,19 @@
+#my_canvas {
+    position: fixed;
+    top: 0px;
+    left: 250px;
+    width: calc(100vw - 250px);
+    height: 100vh;
+    z-index: -10;
+}
+
+@media (max-width: 800px) {
+    #my_canvas {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100vw;
+        height: 100vh;
+        z-index: -10;
+    }
+}
