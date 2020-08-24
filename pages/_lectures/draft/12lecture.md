@@ -2,7 +2,7 @@
 layout: module
 title: Exam 1 Review
 type: review
-draft: 0
+draft: 1
 description: Lots of practice exam materials
 due_date: 2020-10-21
 slides: 

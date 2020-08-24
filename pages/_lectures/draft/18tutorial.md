@@ -1,8 +1,8 @@
 ---
 layout: two-column
 title: Dictionaries
-type: tutorial
-draft: 0
+type: lab
+draft: 1
 points: 4
 num: 6
 description:
@@ -13,7 +13,7 @@ due_date: 2020-05-30
 ---
 
 ## Background
-In this week's tutorial, you will be getting a preview of [Project 2](../assignments/p2). This includes:
+In this week's lab, you will be getting a preview of [Project 2](../assignments/p2). This includes:
 
 1. Installing some python dependencies using PIP
 2. Updating your `apis/authentication.py` file so that it uses the course API master token
@@ -45,17 +45,17 @@ OK
 When you're done, complete one of the two options listed below:
 
 ### Yelp Option
-Create a brand new file called `tutorial06.py` directly inside of your `project02` folder (the location matters). Your directory structure should look like this:
+Create a brand new file called `lab06.py` directly inside of your `project02` folder (the location matters). Your directory structure should look like this:
 
 ```bash
 ├── apis
 ├── music_finder.py
 ├── restaurant_finder.py
 ├── tests
-└── tutorial06.py
+└── lab06.py
 ```
 
-Next, paste the following code into your `tutorial06.py` file and run it.
+Next, paste the following code into your `lab06.py` file and run it.
 
 ```python
 from apis import yelp
@@ -93,7 +93,7 @@ yelp.print_formatted_businesses_table(businesses)
 #### Practice Querying
 When you're done outputting the data, open the `apis/yelp.py` and navigate down to the `get_businesses` function definition. Note all of the keyword  (optional) parameters that the function accepts. 
 
-Next, go back to your `tutorial06.py` file and modify the get_businesses(...) function call by:
+Next, go back to your `lab06.py` file and modify the get_businesses(...) function call by:
 1. Use the various keyword arguments (`price`, `category`, and/or `location`) to change which results get displayed.
 2. Use the `sort_by` keyword argument to change the sort order.
 
@@ -101,17 +101,17 @@ Next, go back to your `tutorial06.py` file and modify the get_businesses(...) fu
 > **NOTE:** You can also learn more about the yelp module by typing: **`help(apis.yelp)`**
 
 ### Spotify Option
-Create a brand new file called `tutorial06.py` directly inside of your `project02` folder (the location matters). Your directory structure should look like this:
+Create a brand new file called `lab06.py` directly inside of your `project02` folder (the location matters). Your directory structure should look like this:
 
 ```bash
 ├── apis
 ├── music_finder.py
 ├── restaurant_finder.py
 ├── tests
-└── tutorial06.py
+└── lab06.py
 ```
 
-Next, paste the following code into your `tutorial06.py` file and run it.
+Next, paste the following code into your `lab06.py` file and run it.
 
 ```python
 from apis import spotify
@@ -155,7 +155,7 @@ When you're done outputting the data, open the `apis/spotify.py` file and naviga
 
 While each parameter is technically optional, this function needs some seed data in order to give you song recommendations. Up to 5 seed values may be provided in any combination of seed_artists, seed_tracks and seed_genres. In other words: <br>`len(artist_ids) + len(track_ids) + len(genres)` must be between 1 and 5.
 
-Next, go back to your `tutorial06.py` file and try invoking the `spotify.get_similar_tracks` function as follows:
+Next, go back to your `lab06.py` file and try invoking the `spotify.get_similar_tracks` function as follows:
 
 ```python
 track_recommendations = spotify.get_similar_tracks(artist_ids=['6vWDO969PvNqNYHIOW5v0m'])
@@ -178,4 +178,4 @@ If you still have time, please experiment with some of the other built-in functi
 
 
 ## What to Turn In
-When you're done, turn in your `tutorial06.py` file on Canvas (optional if you attended tutorial).
+When you're done, turn in your `lab06.py` file on Canvas (optional if you attended lab).

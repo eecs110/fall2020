@@ -3,7 +3,7 @@ layout: module
 title: | 
     User Inputs & Events
 type: lecture
-draft: 0
+draft: 1
 num: 9
 due_date: 2020-10-19
 slides: 

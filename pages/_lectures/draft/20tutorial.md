@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Optional - Use for Office Hours
-type: tutorial
+type: lab
 draft: 1
 points: 4
 num: 7

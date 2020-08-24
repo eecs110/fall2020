@@ -73,7 +73,7 @@ table.rubric {
     }
 }
 
-.readings, .schedule, .tutorials {
+.readings, .schedule, .labs {
     td:nth-child(2), th:nth-child(2) {
         min-width: 80px;
     }
@@ -88,7 +88,7 @@ table.rubric {
         min-width: 100px;
     }
 }
-.schedule, .tutorials {
+.schedule, .labs {
     td:nth-child(3), th:nth-child(3) {
         min-width: 280px;
     }

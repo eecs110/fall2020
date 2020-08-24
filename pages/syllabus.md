@@ -22,18 +22,18 @@ A second goal of the course is to introduce you to the fundamental constructs of
 ### Lectures
 Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded "live-coding" videos (during lecture), programming exercises, and (sometimes) a mini-quiz. We will still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah (professor Van Wart) to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). So, you are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website.
 
-### Tutorial Sessions
-This course involves weekly small-group tutorial sessions where you will work with a member of the teaching staff, beginning in Week 3. Tutorial sessions will be run synchronously (live) by your assigned peer mentors via Zoom. During each tutorial session, you will work through an exercise together with your peer mentor, to advance your understanding of targeted programming concepts. Tutorial sessions count for 10% of your grade.
+### Lab Sessions
+This course involves weekly small-group lab sessions where you will work with a member of the teaching staff, beginning in Week 3. Lab sessions will be run synchronously (live) by your assigned peer mentors via Zoom. During each lab session, you will work through an exercise together with your peer mentor, to advance your understanding of targeted programming concepts. Lab sessions count for 10% of your grade.
 
 {:.blockquote-no-margin}
-> You must complete/attend **at least five tutorial sessions** (4 points each).
+> You must complete/attend **at least five lab sessions** (4 points each).
 
-There are two ways to earn full participation credit in each tutorial session:
+There are two ways to earn full participation credit in each lab session:
 
 1. By attending them (synchronously), working through the exercises, and asking questions (as they arise).
-2. By turning in the tutorial exercise(s) ***before*** the tutorial session. Tutorial exercises will be posted at the beginning of the week (at least 48 hours in advance).
+2. By turning in the lab exercise(s) ***before*** the lab session. Lab exercises will be posted at the beginning of the week (at least 48 hours in advance).
 
-I (prof. Van Wart) have a strong preference for option #1, because it's a form of low-pressure, built-in accountability that will help you learn. That said, it's up to you. Attending and working in the tutorials is worth 10% of your grade.  But you have to actually work -- if you zone out, we will know, and will not give you credit.
+I (prof. Van Wart) have a strong preference for option #1, because it's a form of low-pressure, built-in accountability that will help you learn. That said, it's up to you. Attending and working in the labs is worth 10% of your grade.  But you have to actually work -- if you zone out, we will know, and will not give you credit.
 
 Following the submission deadline, a solution and walkthrough of each problem will be made available via Canvas.
 
@@ -112,7 +112,7 @@ Your course grade is calculated based on 200 points as follows:
 | **2 Projects** | 2 x 40 Points | 80 Points | 40% |
 | **1 Exam** | 60 Points | 60 Points | 30% |
 | **5 Homeworks** | 5 x 8 Points | 40 Points | 20% |
-| **5 Tutorials** | 5 x 4 Points | 20 Points | 10% |
+| **5 Labs** | 5 x 4 Points | 20 Points | 10% |
 | | | **200 Points** | **100%** |
 
 Ordinarily, final grades are assigned on a fixed scale: 93-100 is 

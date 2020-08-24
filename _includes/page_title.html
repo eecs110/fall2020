@@ -19,12 +19,12 @@
             {% if page.due_date %}
             Week {{ week }}: {{ page.due_date  | date: "%a, %b %-d" }}
             {% else %}
-            Tutorial
+            Lab
             {% endif %}
         </div>
-    {% elsif page.type == "tutorial" %}
+    {% elsif page.type == "lab" %}
         <h1>
-            <a href="../">Schedule</a> > Tutorial {{ page.num }}. {{ page.title }}
+            <a href="../">Schedule</a> > Lab {{ page.num }}. {{ page.title }}
         </h1>
         <div class="subtitle">
             Week {{ week }}

@@ -5,7 +5,7 @@ EXCLUDED = [
     'exams',
     'administrative'
     #'practice_exams',
-    'tutorials',
+    'labs',
     'build.sh',
     'zip_it.py',
     'build_navigator.py',

@@ -10,14 +10,14 @@ layout: default
     <p>
         Note: This schedule is subject to change (as needed). 
         In addition, unless otherwise indicated, homework and projects are 
-        always due on Tuesday at 11:59PM.
+        always due on Thursday at 11:59PM.
     </p>
     <table>
         <thead>
             <tr>
                 <th>Week</th>
                 <th></th>
-                <th>Topic</th>
+                <th>Lesson Topic</th>
                 <th>Due</th>
             </tr>
         </thead>
@@ -45,10 +45,10 @@ layout: default
                     <td> 
                         {{ date | date: "%a, %m/%d" }}
                         <!-- {% comment %}
-                        {% if lecture.type != 'tutorial' %}
+                        {% if lecture.type != 'lab' %}
                             {{ date | date: "%a, %m/%d" }}
                         {% else %}
-                            Tutorial<br>
+                            Lab<br>
                             (during assigned day/time)
                         {% endif %} 
                         {% endcomment %} -->
@@ -59,11 +59,12 @@ layout: default
                         {% if lecture.num  %}
                             {% assign prefix = "Lesson " | append: lecture.num %}
                         {% endif %} 
-                        {% if lecture.type == 'tutorial' %}
+                        {% if lecture.type == 'lab' %}
                             {% assign className = 'lab' %}
-                            {% assign prefix = "Tutorial " | append: lecture.num %}
+                            {% assign prefix = "Lab " | append: lecture.num %}
                         {% endif %} 
                         {% if lecture.type == 'review' or lecture.type == 'exam' or lecture.type == 'quiz'%}
+                            {% assign className = 'quiz' %}
                             {% assign prefix = lecture.type  | append: " " | append: lecture.num %}
                         {% endif %}
                         {% if lecture.draft == 1 and prefix %}
@@ -75,8 +76,21 @@ layout: default
                                 {{ prefix }} <i class="fas fa-link"></i>
                             </a>
                         {% endif %}
-                        {% if lecture.type == 'tutorial' or lecture.type == 'lecture' or lecture.type == 'exam' or lecture.type == 'quiz' %}
-                            {{ lecture.title }} 
+                        {% if lecture.type == 'lab' or lecture.type == 'lecture' or lecture.type == 'exam' or lecture.type == 'quiz' %}
+                            {% if lecture.draft == 1 %}
+                                {{ lecture.title }}
+                            {% else %}
+                                <strong>{{ lecture.title }}</strong>
+                            {% endif %}
+                        {% endif %}
+                        {% if lecture.description.first %}
+                            <ul>
+                                <li>
+                                    {{ lecture.description | join: "</li><li>" }}
+                                </li>
+                            </ul>
+                        {% else %}
+                            {{ lecture.description }}
                         {% endif %}
                     </td>
                 {% else %}
@@ -85,6 +99,9 @@ layout: default
                     <td></td>
                 {% endif %}
                 <td>
+                    {% if lecture.type == 'lab' or lecture.type == 'quiz' %}
+                        {{ prefix | upcase }} 
+                    {% endif %}
                     {% assign assignments = site.assignments | where: 'due_date', date %}
                     {% for assignment in assignments %}
                         {% assign classname = "pj" %}
@@ -113,7 +130,7 @@ layout: default
     </table>
 
 </section>
-<!-- {% if site.deadline_reminder %}
+{% if site.deadline_reminder %}
 <script>
     /* 
         Script for calculating # of days until assignment due.
@@ -132,4 +149,4 @@ layout: default
         }
     }
 </script>
-{% endif %} -->
+{% endif %}

@@ -469,24 +469,24 @@ table.rubric ul {
   font-weight: 500;
 }
 
-.readings td:nth-child(2), .readings th:nth-child(2), .schedule td:nth-child(2), .schedule th:nth-child(2), .tutorials td:nth-child(2), .tutorials th:nth-child(2) {
+.readings td:nth-child(2), .readings th:nth-child(2), .schedule td:nth-child(2), .schedule th:nth-child(2), .labs td:nth-child(2), .labs th:nth-child(2) {
   min-width: 80px;
 }
 
-.readings td:nth-child(2), .readings th:nth-child(2), .schedule td:nth-child(2), .schedule th:nth-child(2), .tutorials td:nth-child(2), .tutorials th:nth-child(2) {
+.readings td:nth-child(2), .readings th:nth-child(2), .schedule td:nth-child(2), .schedule th:nth-child(2), .labs td:nth-child(2), .labs th:nth-child(2) {
   min-width: 100px;
 }
 
-.readings td:nth-child(3), .readings th:nth-child(3), .schedule td:nth-child(3), .schedule th:nth-child(3), .tutorials td:nth-child(3), .tutorials th:nth-child(3) {
+.readings td:nth-child(3), .readings th:nth-child(3), .schedule td:nth-child(3), .schedule th:nth-child(3), .labs td:nth-child(3), .labs th:nth-child(3) {
   min-width: 310px;
 }
 
-.readings td:last-child, .readings th:last-child, .schedule td:last-child, .schedule th:last-child, .tutorials td:last-child, .tutorials th:last-child {
+.readings td:last-child, .readings th:last-child, .schedule td:last-child, .schedule th:last-child, .labs td:last-child, .labs th:last-child {
   max-width: 180px;
   min-width: 100px;
 }
 
-.schedule td:nth-child(3), .schedule th:nth-child(3), .tutorials td:nth-child(3), .tutorials th:nth-child(3) {
+.schedule td:nth-child(3), .schedule th:nth-child(3), .labs td:nth-child(3), .labs th:nth-child(3) {
   min-width: 280px;
 }
 
@@ -816,7 +816,7 @@ blockquote.quote.slim:before {
   font-size: 3em;
 }
 
-.schedule ul, .tutorials ul {
+.schedule ul, .labs ul {
   padding-left: 20px;
 }
 
@@ -1551,7 +1551,7 @@ table.instructions td, table.instructions th {
     padding-left: 10vw;
     padding-right: 10vw;
   }
-  .readings td:nth-child(4), .readings th:nth-child(4), .readings td:nth-child(3), .readings th:nth-child(3), .readings th:last-child, .readings td:last-child, .schedule td:nth-child(4), .schedule th:nth-child(4), .schedule td:nth-child(3), .schedule th:nth-child(3), .schedule th:last-child, .schedule td:last-child, .tutorials td:nth-child(4), .tutorials th:nth-child(4), .tutorials td:nth-child(3), .tutorials th:nth-child(3), .tutorials th:last-child, .tutorials td:last-child {
+  .readings td:nth-child(4), .readings th:nth-child(4), .readings td:nth-child(3), .readings th:nth-child(3), .readings th:last-child, .readings td:last-child, .schedule td:nth-child(4), .schedule th:nth-child(4), .schedule td:nth-child(3), .schedule th:nth-child(3), .schedule th:last-child, .schedule td:last-child, .labs td:nth-child(4), .labs th:nth-child(4), .labs td:nth-child(3), .labs th:nth-child(3), .labs th:last-child, .labs td:last-child {
     min-width: 80px;
     width: auto;
     max-width: auto;
@@ -1573,11 +1573,11 @@ table.instructions td, table.instructions th {
   table td {
     font-family: "Akkurat Pro Regular";
   }
-  .schedule table td:nth-child(1), .schedule table th:nth-child(1), .tutorials table td:nth-child(1), .tutorials table th:nth-child(1) {
+  .schedule table td:nth-child(1), .schedule table th:nth-child(1), .labs table td:nth-child(1), .labs table th:nth-child(1) {
     min-width: 72px;
     width: 72px;
   }
-  .schedule table td:nth-child(2), .schedule table th:nth-child(2), .tutorials table td:nth-child(2), .tutorials table th:nth-child(2) {
+  .schedule table td:nth-child(2), .schedule table th:nth-child(2), .labs table td:nth-child(2), .labs table th:nth-child(2) {
     min-width: 40px;
     width: 40px;
   }

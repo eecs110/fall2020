@@ -15,14 +15,21 @@
 
 .assignments, .lectures, .readings, .syllabus, .schedule {
     .passed {
-        color: #AAA;
+        // color: #777;
+        // td, th {
+        //     background: #F9F9F9;
+        // }
+        // li, li::before {
+        //     color: #777;
+        // }
         .hw, a.hw, 
         .pj, a.pj, 
         .lec, a.lec, 
         .lab, a.lab,
+        .quiz, a.quiz,
         .ec, a.ec {
             // opacity: 0.6;
-            background: #BBB;
+            background: #CCC;
         }
     }
 }
@@ -37,6 +44,7 @@
     .pj, a.pj, 
     .lec, a.lec, 
     .lab, a.lab, 
+    .quiz, a.quiz, 
     .live, .recorded, 
     .ec, a.ec {
         display: inline-block;
@@ -59,11 +67,14 @@
     .hw, .hw:hover {
         background: $purple;
     }
+    .quiz, .quiz:hover {
+        background: $mutedblue;
+    }
     .pj, .pj:hover {
         background: $blue;
     }
     .lec, .lec:hover, a.lec {
-        background: $mutedblue;
+        background: $lightlightpurple;
     }
     .lab, .lab:hover {
         background: $green;
@@ -233,7 +244,7 @@ blockquote.quote {
     }
 }
 
-.schedule, .tutorials {
+.schedule, .labs {
     ul { padding-left: 20px; }
 }
 

@@ -12,7 +12,7 @@ toc: 0
 {% endif %}
 <article class="lecture">
 
-    {% if page.due_date and page.type != "tutorial" %}
+    {% if page.due_date and page.type != "lab" %}
     <h2>
         Week {{ week }}: {{ page.due_date  | date: "%a, %b %-d" }}
     </h2>

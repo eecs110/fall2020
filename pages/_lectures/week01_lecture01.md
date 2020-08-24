@@ -3,10 +3,10 @@ layout: module
 title: Introduction
 type: lecture
 num: 1
-draft: 0
+draft: 1
 show_schedule: 1
-description: |
-    Intro to the course.
+description:
+    - Intro to the course
 due_date: 2020-09-18
 slides:
    - url: https://docs.google.com/presentation/d/1089_Wc3dV22F5ibP88iYGCNlSn-MNR3ASQd80Ajk8Aw/edit?usp=sharing
@@ -37,7 +37,7 @@ readings:
 
 
 ---
-<img class="module-image" src="/fall2020/assets/images/lectures/lecture_02_trampolines.gif" /> Welcome to the course! COVID-19 edition. We'll all be figuring this online situation out together -- let's help each other stay engaged, motivated, productive, and healthy! By the end of this course, we want each of you to have written many computer programs, and have a solid grasp of some fundamental programming concepts. <br><br>To do this, you're going to have to teach yourself the skills that you need to accomplish this goal by ***actively participating*** in the class. *Active* participation means (1) doing the readings, (2) watching the videos, (3) attending the lectures and tutorial sessions, and (4) doing the practice assignments. We also want you to discuss ideas / ask questions with your peers and with the course staff.
+<img class="module-image" src="/fall2020/assets/images/lectures/lecture_02_trampolines.gif" /> Welcome to the course! COVID-19 edition. We'll all be figuring this online situation out together -- let's help each other stay engaged, motivated, productive, and healthy! By the end of this course, we want each of you to have written many computer programs, and have a solid grasp of some fundamental programming concepts. <br><br>To do this, you're going to have to teach yourself the skills that you need to accomplish this goal by ***actively participating*** in the class. *Active* participation means (1) doing the readings, (2) watching the videos, (3) attending the lectures and lab sessions, and (4) doing the practice assignments. We also want you to discuss ideas / ask questions with your peers and with the course staff.
 
 {:.blockquote-no-margin}
 > **Credits**: the above animation was created by former CS110 student Harcourt Allen.

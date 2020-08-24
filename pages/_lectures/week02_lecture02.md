@@ -2,12 +2,12 @@
 layout: module
 title: The Building Blocks
 type: lecture
-draft: 0
+draft: 1
 num: 3
 show_schedule: 1
 description:
   - Variables, operators, and data types
-  - Installing Anaconda + VS Code
+  - Installing Python3 & VS Code
 due_date: 2020-09-23
 slides:
   - url: https://docs.google.com/presentation/d/1iDpJk0b8hVmI9IDBkmCdehQ_l_F3FYY1FvNWpThB13U/edit?usp=sharing
@@ -47,7 +47,7 @@ readings:
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
 extras:
   - title: "sign-ups"
-    comments: "You MUST sign up for a tutorial session."
+    comments: "You MUST sign up for a lab session."
     url: "../assignments/hw0"
     due_date: 2020-04-07
     due_date_note: "past due"

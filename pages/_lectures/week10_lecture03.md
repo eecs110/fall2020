@@ -1,11 +1,9 @@
 ---
 layout: two-column
-title: TBD
-type: tutorial
-draft: 0
+title: Quiz 3 Review & Course Wrap-Up
+type: lecture
+draft: 1
 points: 4
-num: 8
 due_date: 2020-11-20
-    
 ---
 TBD

@@ -2,7 +2,7 @@
 layout: module
 title: Creating Your Own Functions
 type: lecture
-draft: 0
+draft: 1
 num: 5
 description:
   - Creating your own functions
@@ -48,4 +48,4 @@ exercise_url: "lecture_04.zip"
     
 ---
 
-In this lesson, we're going to go over how to create your own functions. After this lesson, we will have covered everything that you need to know in order to complete [Tutorial 1](06tutorial), [Tutorial 1](08tutorial) and [HW2](../assignments/hw2)
+In this lesson, we're going to go over how to create your own functions. After this lesson, we will have covered everything that you need to know in order to complete [Lab 1](06lab), [Lab 1](08lab) and [HW2](../assignments/hw2)

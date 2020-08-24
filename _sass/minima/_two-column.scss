@@ -49,6 +49,7 @@ $twocolHeaderHeight: 164px;
         top: $twocolHeaderHeight;
         left: 0px;
         height: calc(100vh - 164px);
+        min-height: 100vh;
         width: 250px;
         overflow-y: auto;
         padding-bottom: 40px;

@@ -2,7 +2,7 @@
 layout: module
 title: "Intro to Cloud-Based Services"
 type: lecture
-draft: 0
+draft: 1
 num: 14
 due_date: 2020-05-28
 exercise_url: "lecture_14.zip"

@@ -33,7 +33,7 @@ gui.rowconfigure(1, weight=9) # row 1 takes up 90% of screen
 
 # 3. Initialize close button:
 # read about buttons:
-# https://www.tutorialspoint.com/python3/tk_button.htm
+# https://www.labspoint.com/python3/tk_button.htm
 info_btn = Button(
     mainframe,
     padx=5, 

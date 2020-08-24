@@ -3,10 +3,10 @@ layout: assignment-two-column
 title: Intro to Tkinter
 abbreviation: HW2
 type: homework
-due_date: 2020-04-21
+due_date: 2020-10-01
 ordering: 1 
 points: 8
-draft: 0
+draft: 1
 ---
 
 <a class="nu-button" href="/fall2020/course-files/homework/hw02.zip" target="_blank">
@@ -27,7 +27,7 @@ draft: 0
 To draw your shapes, you will be using an (x, y) coordinate space that has a different origin from the one you use in math class. For computer graphics, the origin is typically in the top left-hand corner (pictured below). To help you debug, I have created a function, make_grid, in the helpers.py file, that will draw gridlines for you.
 
 
-<img class="med-lg center" src="/fall2020/assets/images/hw02/grid.svg" /><br>Source: <a href="https://processing.org/tutorials/drawing/" target="_blank">https://processing.org/tutorials/drawing/</a>
+<img class="med-lg center" src="/fall2020/assets/images/hw02/grid.svg" /><br>Source: <a href="https://processing.org/labs/drawing/" target="_blank">https://processing.org/labs/drawing/</a>
 
 ### TKinter sample code
 To get you started, I have created a file of samples, located in `warm_up.py`, that you can use as a reference as you learn how to draw shapes using the tkinter canvas library. Please feel free to copy and adapt code from this file to complete your assignment. When you run `warm_up.py` from IDLE (by pressing F5), you should see an image like this:

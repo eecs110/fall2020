@@ -21,9 +21,9 @@ layout: default
         <tbody>
         {% assign last_week = 0 %}
         {% assign sortedAssignments = site.assignments | sort: 'due_date' %}
-        {% assign tutorials = site.lectures | sort: 'due_date' | where: "type", "tutorial" %}
+        {% assign labs = site.lectures | sort: 'due_date' | where: "type", "lab" %}
         {% assign exams = site.lectures | sort: 'due_date' | where: "type", "exam" %}
-        {% assign assignments = sortedAssignments | concat: tutorials  | concat: exams | sort: 'due_date' %}
+        {% assign assignments = sortedAssignments | concat: labs  | concat: exams | sort: 'due_date' %}
         {% for assignment in assignments %}
             {% assign dueDate = assignment.due_date | date: '%s' %}
             {% assign diffSeconds = dueDate | minus: dateStart %}
@@ -33,7 +33,7 @@ layout: default
             {% if assignment.type == 'homework' %}
                 {% assign className = 'hw' %}
             {% endif %}
-            {% if assignment.type == 'tutorial' %}
+            {% if assignment.type == 'lab' %}
                 {% assign className = 'lab' %}
             {% endif %}
             {% if assignment.type == 'extra credit' %}
@@ -47,7 +47,7 @@ layout: default
                 <td>
                     {% assign abbreviation = assignment.abbreviation %}
                     {% unless assignment.abbreviation %}
-                        {% assign abbreviation = "Tutorial" | append: assignment.num %}
+                        {% assign abbreviation = "Lab" | append: assignment.num %}
                     {% endunless %} 
                     {% if assignment.draft == 1 %}
                         {{ abbreviation }}
@@ -86,20 +86,20 @@ layout: default
     for (tr of trs) {
         const lastTd = tr.querySelector('td:last-child');
         if (lastTd) {
-            const isTutorial = tr.querySelector('.lab') != null || tr.querySelector('td:nth-child(2)').innerHTML.includes('Tutorial');
+            const isLab = tr.querySelector('.lab') != null || tr.querySelector('td:nth-child(2)').innerHTML.includes('Lab');
             const nextToLastTd = lastTd.previousElementSibling;
             nextToLastTd.style.maxWidth = "140px";
             const dateString = lastTd.querySelector('.due-date').innerHTML;
             const dueDate = new Date(dateString);
             const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
-            if (isTutorial) {
-                nextToLastTd.innerHTML = "scheduled tutorial time";
+            if (isLab) {
+                nextToLastTd.innerHTML = "scheduled lab time";
             }
             if (numDays < -1) {
                 tr.classList.add('passed');
                 lastTd.innerHTML = "passed";
             }
-            else if (isTutorial) {
+            else if (isLab) {
                 lastTd.innerHTML = "<span style='font-family: Arial;'>&#8804;</span> " + (numDays + 1).toFixed();
                 //lastTd.innerHTML = '';
             }

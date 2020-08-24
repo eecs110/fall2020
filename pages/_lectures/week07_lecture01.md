@@ -1,12 +1,14 @@
 ---
 layout: module
-title: TBD
-type: lecture
-draft: 0
-num: 13
+title: |
+    Quiz 2: Control
+type: quiz
+draft: 1
+num: 2
 description:
   - If / Else
-  - Booleans
+  - While Loops
+  - For Loops
 due_date: 2020-10-26
 
 ---

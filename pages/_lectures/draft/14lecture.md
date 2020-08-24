@@ -2,7 +2,7 @@
 layout: module
 title: Files and Strings
 type: lecture
-draft: 0
+draft: 1
 num: 10
 due_date: 2020-05-14
 slides: 

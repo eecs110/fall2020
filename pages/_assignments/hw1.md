@@ -4,9 +4,9 @@ title: |
     Installation & Introductory Exercises
 abbreviation: HW1
 type: homework
-due_date: 2020-04-14
+due_date: 2020-09-24
 ordering: 1
-draft: 0
+draft: 1
 points: 8
 ---
 
@@ -22,7 +22,7 @@ points: 8
 ## Part 1: Install Python and IDLE
 
 {: .blockquote-no-margin}
-> **NOTE:** If you have any issues installing Python or IDLE, contact the peer mentor who runs the tutorial session you signed up for. You are also welcome to attend any of the course office hours to get help.
+> **NOTE:** If you have any issues installing Python or IDLE, contact the peer mentor who runs the lab session you signed up for. You are also welcome to attend any of the course office hours to get help.
 
 We will use the Python 3 programming language and **IDLE**, which is Python's Integrated Development and Learning Environment.
 

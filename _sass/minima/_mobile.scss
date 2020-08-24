@@ -5,7 +5,7 @@
             padding-right: 10vw;
         }
     }
-    .readings, .schedule, .tutorials {
+    .readings, .schedule, .labs {
         td:nth-child(4), th:nth-child(4), td:nth-child(3), th:nth-child(3), th:last-child, td:last-child {
             min-width: 80px;
             width: auto;
@@ -35,7 +35,7 @@
             font-family: "Akkurat Pro Regular";
         }
     }
-    .schedule, .tutorials {
+    .schedule, .labs {
         table {
             td:nth-child(1), th:nth-child(1) {
                 min-width: 72px;

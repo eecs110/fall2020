@@ -3,7 +3,7 @@ layout: module
 title: | 
     Loops 2: For Loops & Lists
 type: lecture
-draft: 0
+draft: 1
 num: 8
 due_date: 2020-10-14
 slides: 

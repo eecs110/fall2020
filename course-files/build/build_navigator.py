@@ -162,7 +162,7 @@ def fun(dir, rootdir, counter):
         'course-files/',
         'course-files/lectures/',
         'course-files/homework/',
-        'course-files/tutorials/',
+        'course-files/labs/',
         'course-files/projects/',
         'course-files/practice_exams/'
     ]

@@ -9,11 +9,11 @@ permalink: /resources/zoom/
 For security purposes, all zoom meetings will require that you sign-in via your NU account. To do this, you will first navigate to <a href="https://northwestern.zoom.us" target="_blank">https://northwestern.zoom.us</a>, and then join the corresponding meeting. If you don't login to zoom or if you are logged in as a user other than through the NU Single Sign-On, you won't be able to join the zoom.
 
 ## Finding Your Zoom Link
-* We will have different zoom links for different kinds of activities. All zoom links corresponding to lectures, office hours, and tutorials will be made available via the [course calendar](../times-locations/). All zoom meetings will be password-protected (see Canvas for passwords).
+* We will have different zoom links for different kinds of activities. All zoom links corresponding to lectures, office hours, and labs will be made available via the [course calendar](../times-locations/). All zoom meetings will be password-protected (see Canvas for passwords).
 * The zoom link for all lectures (Tu, Th 3:30-4:50PM) is: <a href="https://northwestern.zoom.us/j/472777488" target="_blank">https://northwestern.zoom.us/j/472777488</a> (Meeting ID: 472 777 488).
 
 ## Recording (Audio / Video)
-We **will** be recording all sessions during regularly scheduled class time. We WILL NOT be recording office hours or tutorial sessions in order to protect students' privacy.
+We **will** be recording all sessions during regularly scheduled class time. We WILL NOT be recording office hours or lab sessions in order to protect students' privacy.
 
 ## Etiquette
 To ensure a smooth lecture experience for everyone, we’ll need to follow some simple guidelines.

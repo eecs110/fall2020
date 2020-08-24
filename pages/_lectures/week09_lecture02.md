@@ -1,9 +1,9 @@
 ---
 layout: module
-title: TBD
+title: Intro to Cloud-Based Services
 type: lecture
-draft: 0
-num: 18
+draft: 1
+num: 16
 due_date: 2020-11-11
 
 ---

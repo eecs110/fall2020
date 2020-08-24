@@ -6,11 +6,11 @@ layout: default
 
     {{content}}
 
-    <table class="tutorials">
+    <table class="labs">
         <thead>
             <tr>
                 <th>Week</th>
-                <th>Tutorial Link</th>
+                <th>Lab Link</th>
                 <th>Description</th>
                 <th>Notes</th>
                 <th>Points</th>
@@ -20,8 +20,8 @@ layout: default
         {% assign dateStart = site.term_start_date | date: '%s' %}
         {% assign now = 'now' | date: '%s' %}
         {% assign last_week = 0 %}
-        {% assign tutorials = site.lectures | sort: 'due_date' | where: "type", "tutorial" %}
-        {% for assignment in tutorials %}
+        {% assign labs = site.lectures | sort: 'due_date' | where: "type", "lab" %}
+        {% for assignment in labs %}
             {% assign dueDate = assignment.due_date | date: '%s' %}
             {% assign diffSeconds = dueDate | minus: dateStart %}
             {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
@@ -34,10 +34,10 @@ layout: default
                 </td>
                 <td>
                     {% if assignment.draft == 1 %}
-                        Tutorial {{ assignment.num }}:
+                        Lab {{ assignment.num }}:
                     {% else %} 
                         <a class="{{ className }}" href="{{site.baseurl}}{{assignment.url}}">
-                            Tutorial {{ assignment.num }}
+                            Lab {{ assignment.num }}
                             <i class="fas fa-link"></i>
                         </a> 
                     {% endif %}    

@@ -1,10 +1,9 @@
 ---
-layout: two-column
-title: TBD
-type: tutorial
-draft: 0
-points: 4
-num: 7
+layout: module
+title: Cloud-Based Services Continued
+type: lecture
+draft: 1
+num: 17
 due_date: 2020-11-13
     
 ---

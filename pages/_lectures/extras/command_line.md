@@ -1,6 +1,6 @@
 ### 5. Review the command line Cheatsheet
 
-For your convenience, we have made you a little cheatsheet to help you get familiar with the command line. <a href="https://tutorial.djangogirls.org/en/intro_to_command_line/" target="_blank">Django Girls</a> is a good resource. Note: you will not be tested on this or anything, but navigating the command line can be useful. 
+For your convenience, we have made you a little cheatsheet to help you get familiar with the command line. <a href="https://lab.djangogirls.org/en/intro_to_command_line/" target="_blank">Django Girls</a> is a good resource. Note: you will not be tested on this or anything, but navigating the command line can be useful. 
 
 {:.instructions}
 | | DOS (Windows) | Shell (Mac / Linux) |

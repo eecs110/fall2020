@@ -2,8 +2,8 @@
 layout: two-column
 title: |
     Loops and Conditionals
-type: tutorial
-draft: 0
+type: lab
+draft: 1
 points: 4
 num: 3
 description:
@@ -13,11 +13,11 @@ due_date: 2020-10-16
     
 ---
 
-<a class="nu-button" href="/fall2020/course-files/tutorials/tutorial03.zip" target="_blank">
-    Tutorial Starter Files <i class="fas fa-download"></i>
+<a class="nu-button" href="/fall2020/course-files/labs/lab03.zip" target="_blank">
+    Lab Starter Files <i class="fas fa-download"></i>
 </a> 
 
-The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful, so getting comfortable with them is essential (and will help you with [HW4](../assignments/hw4)). If you have a tutorial earlier in the week, then you have not yet reviewed **while loops**. Here are <a href="https://docs.google.com/presentation/d/1BUOFXuJSwFgolQP_lTR_cDl9LHy3t5AjdfRsiQDF8Cw/edit?usp=sharing" target="_blank">some slides</a> to explain the rules of while loops.
+The goal of this lab is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful, so getting comfortable with them is essential (and will help you with [HW4](../assignments/hw4)). If you have a lab earlier in the week, then you have not yet reviewed **while loops**. Here are <a href="https://docs.google.com/presentation/d/1BUOFXuJSwFgolQP_lTR_cDl9LHy3t5AjdfRsiQDF8Cw/edit?usp=sharing" target="_blank">some slides</a> to explain the rules of while loops.
 
 ## Part 1: Number Guessing Game
 Open the `01_number_game.py` file and write a program for a number guessing game. The game already does the following:
@@ -44,7 +44,7 @@ Your job is to finish the game by implementing the following features:
 1. Open `02_vertical_circles.py` 
 2. See if you can use a while loop to recreate this functionality, where there is only one make_circle function call that is repeated within a while loop.
 
-<img class="frame" style="width: 100px;" src="/fall2020/assets/images/tutorial03/vertical_circles.png" />
+<img class="frame" style="width: 100px;" src="/fall2020/assets/images/lab03/vertical_circles.png" />
 
 ### Hints
 1. You will need to initialize a counter
@@ -54,7 +54,7 @@ Your job is to finish the game by implementing the following features:
 ## Extra Challenges: Drawing with Loops
 Practice creating the following shapes using a while loop. The first three shapes are recommended for everyone. The last two (spirograph ones) are optional. If you pursue the latter two, see if you can get implementation ideas here (or using some other source).
 
-<img class="med-lg center frame" src="/fall2020/assets/images/tutorial03/shapes.png" />
+<img class="med-lg center frame" src="/fall2020/assets/images/lab03/shapes.png" />
 
 ## Hints
 1. Q: What do you want to repeat?
@@ -66,9 +66,9 @@ Practice creating the following shapes using a while loop. The first three shape
 
 
 ## What to turn in (same deal as always)
-As described in the syllabus, there are two ways to earn full participation credit in each tutorial session:
+As described in the syllabus, there are two ways to earn full participation credit in each lab session:
 
 1. By attending them (synchronously), working through the exercises, and asking questions (as they arise).
-2. By turning in the tutorial exercise(s) ON CANVAS **before** the tutorial session. Tutorial exercises will be posted at the beginning of the week (at least 48 hours in advance). 
+2. By turning in the lab exercise(s) ON CANVAS **before** the lab session. Lab exercises will be posted at the beginning of the week (at least 48 hours in advance). 
 
-Whichever option you choose, you will be expected to know the material reviewed in the tutorial for the exam, and are encouraged to fully complete and submit the tutorial assignments (though this is not required if you attended the tutorial).
+Whichever option you choose, you will be expected to know the material reviewed in the lab for the exam, and are encouraged to fully complete and submit the lab assignments (though this is not required if you attended the lab).

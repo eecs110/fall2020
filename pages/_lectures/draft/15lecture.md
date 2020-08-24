@@ -2,7 +2,7 @@
 layout: module
 title: More on Files & Strings + Error Handling
 type: lecture
-draft: 0
+draft: 1
 num: 11
 due_date: 2020-05-19
 slides: 
