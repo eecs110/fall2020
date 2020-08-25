@@ -7,7 +7,11 @@ num: 4
 show_schedule: 1
 include_page: "extras/command_line.md"
 draft: 1
-description: ""
+description:
+    - Some useful built-in functions
+    - Parameters and arguments
+    - Intro to the command line
+    - Lists and tuples (sequences)
 due_date: 2020-09-25
 slides:
   - url: https://docs.google.com/presentation/d/1Ay4vneiQiF8IttIrGYyGpd8u4flJ0H973l56M-CU7XM/edit?usp=sharing

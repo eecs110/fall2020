@@ -2,6 +2,10 @@
 layout: two-column
 title: |
     For Loops Activity
+description:
+    - practice with for loops
+    - practice with iterating through a tuple
+    - practice writing functions
 type: lab
 draft: 1
 num: 4

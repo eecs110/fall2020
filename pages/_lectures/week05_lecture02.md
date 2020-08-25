@@ -2,6 +2,10 @@
 layout: module
 title: |   
     Loops 1: While Loops
+description:
+    - What do you want to repeat?
+    - How long do you want to repeat it?
+    - What changes each time (optional)?
 type: lecture
 draft: 1
 num: 9
@@ -26,7 +30,7 @@ videos:
    - title: "While loops practice"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5982e725-b08b-4c83-8e21-abab00e06b35
      duration: "12:22"
-   - title: "Loops & lLists"
+   - title: "Loops & Lists"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0423a570-253f-44dd-a7e4-abab00e40b49
      duration: "11:37"
    - title: "Challenge problem"

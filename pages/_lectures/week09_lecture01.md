@@ -1,6 +1,8 @@
 ---
 layout: two-column
 title: Using Dictionaries and Loops to Analyzing File Data
+description:
+    - TBD
 type: lab
 draft: 1
 num: 6

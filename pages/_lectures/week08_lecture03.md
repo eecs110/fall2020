@@ -1,6 +1,10 @@
 ---
 layout: module
 title: Dictionary Algorithms
+description:
+    - Dictionaries for data analysis
+    - The "counting algorithm"
+    - The "grouping algorithm"
 type: lecture
 draft: 1
 num: 15

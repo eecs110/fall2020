@@ -5,11 +5,12 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Spring, 2020 |
+| **Term** | Fall, 2020 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Sarah Van Wart |
-| **Lecture Time** | Tuesdays and Thursdays, 3:30 - 4:50pm |
+| **Lecture Time** | Monday, Wednesday, & Friday, 10:20 - 11:10am |
+| **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
 | **Lecture Location** | Online (for now) |
 
 ## About the Course
@@ -22,11 +23,11 @@ A second goal of the course is to introduce you to the fundamental constructs of
 ### Lectures
 Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded "live-coding" videos (during lecture), programming exercises, and (sometimes) a mini-quiz. We will still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah (professor Van Wart) to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). So, you are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website.
 
-### Lab Sessions
-This course involves weekly small-group lab sessions where you will work with a member of the teaching staff, beginning in Week 3. Lab sessions will be run synchronously (live) by your assigned peer mentors via Zoom. During each lab session, you will work through an exercise together with your peer mentor, to advance your understanding of targeted programming concepts. Lab sessions count for 10% of your grade.
+### Lab Sessions as Participation
+The best way to 
 
 {:.blockquote-no-margin}
-> You must complete/attend **at least five lab sessions** (4 points each).
+> You must submit **at least five lab sessions** (4 points each).
 
 There are two ways to earn full participation credit in each lab session:
 

@@ -1,6 +1,10 @@
 ---
 layout: module
 title: Dictionaries
+description: 
+    - Creating, reading, and updating a dictionary
+    - Dictionaries as lookup tables
+    - Dictionaries as data representations
 type: lecture
 draft: 1
 num: 14

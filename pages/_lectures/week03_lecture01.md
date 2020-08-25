@@ -6,7 +6,8 @@ draft: 1
 num: 5
 description:
   - Creating your own functions
-  - Lists and tuples (sequences)
+  - Defining versus invoking functions
+  - Modules
 due_date: 2020-09-28
 slides:
   - url: https://docs.google.com/presentation/d/1hvPvBTQD4Or_ekT3M2ElNrwdjmgP5lBlVbv2Ca3SHgU/edit?usp=sharing
