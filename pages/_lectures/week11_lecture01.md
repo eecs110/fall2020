@@ -1,7 +1,6 @@
 ---
 layout: two-column
-title: |
-    Quiz 3: Working with Dictionaries, Lists & Files
+title:  Working with Dictionaries, Lists & Files
 type: quiz
 draft: 1
 num: 3

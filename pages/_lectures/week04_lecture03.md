@@ -1,7 +1,6 @@
 ---
 layout: lecture-two-column
-title: |
-    Quiz 1: Expressions (Variable, Operators, & Functions)
+title: Expressions (Variable, Operators, & Functions)
 type: quiz
 description:
     - Quiz 1 of 3 (using the Lockdown Browser)

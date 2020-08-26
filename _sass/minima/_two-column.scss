@@ -50,7 +50,7 @@ $twocolHeaderHeight: 164px;
         left: 0px;
         height: calc(100vh - 164px);
         min-height: 100vh;
-        width: 250px;
+        width: 300px;
         overflow-y: auto;
         padding-bottom: 40px;
         h3 {
@@ -117,10 +117,10 @@ $twocolHeaderHeight: 164px;
         }
     }
     article {
-        width: calc(100vw - 250px);
-        margin-left: 250px;
-        padding: 20px 40px;
-        padding-right: 15vh;
+        width: calc(100vw - 300px);
+        margin-left: 300px;
+        padding: 20px 60px;
+        padding-right: 18vh;
 
         h1 {
             font-size: 1.8em;

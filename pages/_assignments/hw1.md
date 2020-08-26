@@ -6,7 +6,7 @@ abbreviation: HW1
 type: homework
 due_date: 2020-09-24
 ordering: 1
-draft: 1
+draft: 0
 points: 8
 ---
 
