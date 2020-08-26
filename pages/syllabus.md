@@ -21,7 +21,7 @@ A second goal of the course is to introduce you to the fundamental constructs of
 ## Course Format
 
 ### Lectures
-Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, lab activities, and (sometimes) mini-quizzes. We **will** still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah (professor Van Wart) to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
+Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, lab activities, and (sometimes) mini-quizzes. We **will** still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
 
 **Bottom line**: You are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
 
@@ -33,10 +33,7 @@ These labs have a few goals:
 2. To force you to write lots of programs (practice makes perfect!)
 2. To help you to gauge what you know and don't know, so that you can make a plan to attend office hours.
 
-{:.blockquote-no-margin}
-> You must submit **at least 5 labs** (out of 7), but are encouraged to complete them all.
-
-We will grade your labs based on effort (pass/no pass). In other words, even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort.
+We will grade your labs based on effort (pass/no pass). In other words, even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 5 labs** (out of 7), but are encouraged to complete them all.
 
 
 ## Course Staff
@@ -99,7 +96,7 @@ Your course grade is calculated based on 200 points as follows:
 | **2 Projects** | 2 x 40 Points | 80 Points | 40% |
 | **2 Quizzes** (of 3) | 2 x 30 Points (lowest score dropped) | 60 Points | 30% |
 | **5 Homeworks** (of 6) | 5 x 8 Points (lowest score dropped) | 40 Points | 20% |
-| **5 Labs** (of 7) | 5 x 4 Points (lowest 2 labs dropped) | 20 Points | 10% |
+| **5 Labs** (of 7) | 5 x 4 Points (lowest 2 scores dropped) | 20 Points | 10% |
 | | | **200 Points** | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is 
