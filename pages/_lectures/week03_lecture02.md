@@ -2,7 +2,7 @@
 layout: two-column
 title: Practice with Functions
 type: lab
-draft: 1
+draft: 0
 points: 4
 num: 1
 description: 
