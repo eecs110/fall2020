@@ -22,7 +22,7 @@ points: 8
 ## Part 1: Install Python and IDLE
 
 {: .blockquote-no-margin}
-> **NOTE:** If you have any issues installing Python or IDLE, contact the peer mentor who runs the lab session you signed up for. You are also welcome to attend any of the course office hours to get help.
+> **NOTE:** If you have any issues installing Python or IDLE, contact your assigned peer mentor. You are also welcome to attend any of the course office hours to get help.
 
 We will use the Python 3 programming language and **IDLE**, which is Python's Integrated Development and Learning Environment.
 
@@ -75,7 +75,7 @@ It may seem trivial, but take some time now to organize yourself. It will save y
 ### Step 2: Complete the following exercises
 Download the [main.py](../course-files/homework/hw01/main.py) starter file and save it in your hw01 folder. To edit **main.py** using IDLE:
 
-1. Right click on the **main.py** file that you just saved in your **hw02 folder** and open it with IDLE. 
+1. Right click on the **main.py** file that you just saved in your **hw01 folder** and open it with IDLE. 
 2. You should now see some python code. Click anywhere inside that file so that your cursor is now in that window. 
 3. Hit F5 (if you're on a MAC with a touchbar, hit the **fn** key and then **F5**). As an alternative to F5, you can also go to the Run menu and select **Run Module**. Your code will then be executed by the Python interpreter.
 
