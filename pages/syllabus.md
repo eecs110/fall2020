@@ -105,13 +105,13 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 1. Final course grades will not be rounded or curved.
 1. We will not be using the final exam time for this class.
 
-> #### NOTE: Leniency is built into the course
-> Because these are unprecedented times -- with many potential life disruptions because of COVID-19, wildfires, police brutality, and so forth -- I have built leniency into the design of the class. You will be able to:
+> ### NOTE: Leniency is built into the course
+> Because there are unprecedented and uncertain times, I have built leniency into the design of the class. You will be able to:
 > * drop your lowest quiz score (best 2 of 3)
 > * drop your lowest homework score (best 5 of 6)
 > * drop your lowest 2 labs (best 5 of 7)
 >
-> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Lab1-2 is an ill-advised approach. **I will not grant additional exceptions to students unless I receive a note from the Dean of Students (or some similar NU entity).**
+> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Lab1-2 is an ill-advised approach. **I will not grant additional exceptions unless the circumstances are truly exceptional, and this will need to go through the Dean of Students (or some similar NU entity).**
 
 
 ### Homework Grading
