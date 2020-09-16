@@ -146,7 +146,7 @@ layout: default
             const dateString = dateElement.innerHTML;
             const dueDate = new Date(dateString);
             const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
-            if (numDays < 0) {
+            if (numDays < -1) {
                 tr.classList.add('passed');
             }
         }
