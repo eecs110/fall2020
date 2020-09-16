@@ -26,7 +26,7 @@ Lectures will a combination of synchronous and asynchronous content, which will 
 **Bottom line**: You are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
 
 ### Tutorial Sessions (Your Participation Grade)
-The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a tutorial section on either Monday, Tuesday, or Wednesday (there will be around 22 tutorial sections to choose from, and there will be roughly 12 students in each tutorial). You will sign up for a section on Friday, 9/18 (more on that in lecture). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
+The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on on Friday, 9/18. There will be around 22 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
 
 These tutorials have a few goals:
 1. To help you become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
