@@ -21,30 +21,51 @@ A second goal of the course is to introduce you to the fundamental constructs of
 ## Course Format
 
 ### Lectures
-Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, lab activities, and (sometimes) mini-quizzes. We **will** still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
+Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, tutorial activities, and (sometimes) mini-quizzes. We **will** still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
 
 **Bottom line**: You are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
 
-### Lab Sessions (Your Participation Grade)
-The best way to learn how to program is to practice writing lots of programs. To encourage this, there will 7 labs that will take place during regularly scheduled class time (see the [schedule](/)). 
+### Tutorial Sessions (Your Participation Grade)
+The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a tutorial section on either Monday, Tuesday, or Wednesday (there will be around 22 tutorial sections to choose from, and there will be roughly 12 students in each tutorial). You will sign up for a section on Friday, 9/18 (more on that in lecture). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
 
-These labs have a few goals:
+These tutorials have a few goals:
 1. To help you become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
 2. To force you to write lots of programs (practice makes perfect!)
 2. To help you to gauge what you know and don't know, so that you can make a plan to attend office hours.
 
-We will grade your labs based on effort (pass/no pass). In other words, even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 5 labs** (out of 7), but are encouraged to complete them all.
+Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 5 tutorials**, but are encouraged to complete them all. 
 
 
 ## Course Staff
-We will finalize the course staff in the coming weeks.
+We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
 
 ### Peer Mentors
-TBD
-
+* Cooper Barth (cooperbarth2021@u.northwestern.edu)
+* Kieran Bondy (kieranbondy2021@u.northwestern.edu)
+* Anthony Chen (anthonychen2021.1@u.northwestern.edu)
+* Linxin Chen (linxinchen2021@u.northwestern.edu)
+* Chase Duvall (chaseduvall2023@u.northwestern.edu)
+* Olivier Gabison (oliviergabison2022@u.northwestern.edu)
+* Olivia Gallager (oliviagallager2021@u.northwestern.edu)
+* Camila Grisanti (camilagrisanti2022@u.northwestern.edu)
+* Kevin Hou (kevinhou2022@u.northwestern.edu)
+* Katherine Johns (katherinejohns2021@u.northwestern.edu)
+* Charlotte Jones (charlottejones2022@u.northwestern.edu)
+* Joshua Kennedy (joshuakennedy2021@u.northwestern.edu)
+* Emmy Khawsam-ang (nichareekhawsam-ang2021@u.northwestern.edu)
+* Gabrielle Klein (gabrielleklein2021@u.northwestern.edu)
+* Caroline Lobel (carolinelobel2022@u.northwestern.edu)
+* Andy Moran (carlosmoran2022@u.northwestern.edu)
+* Athipat Pipatpinyopong (athipatpipatpinyopong2022@u.northwestern.edu)
+* Rhea Ramaiya (rhearamaiya2022@u.northwestern.edu)
+* Ariella Silver (a.silver@u.northwestern.edu)
+* Barbara Sledz (barbarasledz2022@u.northwestern.edu)
+* Nicole Villalba (nicolevillalba2022@u.northwestern.edu)
+* Lily Yan (lilyyan2023@u.northwestern.edu)
 
 ### Graduate Teaching Assistants
-TBD
+* Yunming Xiao (yunming.xiao@u.northwestern.edu)
+* Andi Zang (andi.zang@u.northwestern.edu)
 
 ## Course Materials and Resources 
 
@@ -55,14 +76,14 @@ TBD
 
 
 ### Installing Software
-As this is a programming course, you will be using some free software programs and libraries in order to write Python programs. Installing and configuring this software can be a hassle, but it is part of the process of developing your working computing knowledge. 
+As this is a programming course, you will be using some free software programs and libraries in order to write Python programs. Installing and configuring this software can be a huge hassle, but it is part of the process of developing your working computing knowledge. 
 
 > If you are struggling to get Python and your code editor installed, this is (alas) ***normal*** (ask any software engineer). This is also one of the reasons why we have such a big course staff: to troubleshoot individual laptop problems with students.
 
 ## Getting Questions Answered
 
 ### Office Hours
-Office hours are hands down **THE BEST** resource this course has to offer. We have >20 TAs/Peer Mentors whose job is to help you to be successful and find your own power as current and future programmers. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs, so do shop around to find a TA with whom you work well...and drop in sooner rather than later! 
+Office hours (and tutorials) are hands down **THE BEST** resource this course has to offer. We have 22 TAs/Peer Mentors whose job is to help you to be successful and find your own power as current and future programmers. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs, so do shop around to find a TA with whom you work well...and drop in sooner rather than later! 
 
 The kinds of questions that are perfectly legitimate to ask in office hours include (but are not limited to):
 
@@ -96,7 +117,7 @@ Your course grade is calculated based on 200 points as follows:
 | **2 Projects** | 2 x 40 Points | 80 Points | 40% |
 | **2 Quizzes** (of 3) | 2 x 30 Points (lowest score dropped) | 60 Points | 30% |
 | **5 Homeworks** (of 6) | 5 x 8 Points (lowest score dropped) | 40 Points | 20% |
-| **5 Labs** (of 7) | 5 x 4 Points (lowest 2 scores dropped) | 20 Points | 10% |
+| **5 Tutorials** (of 7 or 8) | 5 x 4 Points (lowest scores dropped) | 20 Points | 10% |
 | | | **200 Points** | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is 
@@ -109,9 +130,9 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 > Because there are unprecedented and uncertain times, I have built leniency into the design of the class. You will be able to:
 > * drop your lowest quiz score (best 2 of 3)
 > * drop your lowest homework score (best 5 of 6)
-> * drop your lowest 2 labs (best 5 of 7)
+> * Keep your best 5 tutorial scores (best 5 of 7 or 8)
 >
-> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Lab1-2 is an ill-advised approach. **I will not grant additional exceptions unless the circumstances are truly exceptional, and this will need to go through the Dean of Students (or some similar NU entity).**
+> I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Tutorial1-2 is an ill-advised approach. **I will not grant additional exceptions unless the circumstances are truly exceptional, and this will need to go through the Dean of Students (or some similar NU entity).**
 
 
 ### Homework Grading
@@ -121,11 +142,11 @@ We will still accept late homework up to 48 hours after the original due date, b
 
 |--|--|
 | **No submission / little understanding** | 0 Points | Little to no understanding/effort demonstrated |
-| **Check minus** | 4 Points | Some effort made, but significant features are missing or not working |
+| **Check minus** | 3 Points | Some effort made, but significant features are missing or not working |
 | **Check** | 6 Points | Mostly working, but some errors or issues were found |
 | **Check Plus**| 8 Points | Working exactly as it should |
 
-On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Piazza within 1 week to the graduate TA to resolve the issue. We will NOT drop any scores in this class, but ***may*** offer up to 15 points of extra credit. Finally, it is your responsibility to keep up-to-date on class material and announcements. This includes material presented and announcements made in class, via email, or on Piazza.
+On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Piazza within 1 week to the graduate TA to resolve the issue. Finally, it is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Piazza.
 
 ## Policy on Academic Honesty
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. For the programming assignments: You are allowed (encouraged, even!) to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
@@ -138,7 +159,7 @@ In the past, there have been a few unfortunate instances in which students have 
 Contact Sarah Van Wart if you have any questions about what is appropriate.
 
 ## Zoom Instructions
-To ensure a smooth lecture experience for everyone, we have created a [Zoom Guide](../zoom/) for you. Please refer to it to understand how to access the course Zoom sessions, and some of the recording and etiquette policies.
+To ensure a smooth lecture experience for everyone, we have created a [Zoom Guide](../resources/zoom/) for you. Please refer to it to understand how to access the course Zoom sessions, and some of the recording and etiquette policies.
 
 ## A Note on Class Recordings
 The Provost's office has asked instructors to publish the following language in the syllabus:

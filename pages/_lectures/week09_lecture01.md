@@ -3,9 +3,9 @@ layout: two-column
 title: Using Dictionaries and Loops to Analyzing File Data
 description:
     - TBD
-type: lab
+type: lecture
 draft: 1
-num: 6
+num: 22
 due_date: 2020-11-09
 ---
 

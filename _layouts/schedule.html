@@ -111,6 +111,9 @@ layout: default
                         {% if assignment.type == "extra credit" %}
                             {% assign classname = "ec" %}
                         {% endif %} 
+                        {% if assignment.type == "tutorial" %}
+                            {% assign classname = "lab" %}
+                        {% endif %} 
                         
                         {% if assignment.draft == 1 %}
                             <strong>{{ assignment.abbreviation }}:</strong>

@@ -7,7 +7,7 @@ description:
     - Dictionaries as data representations
 type: lecture
 draft: 1
-num: 14
+num: 20
 due_date: 2020-11-04
 readings:
   - title: "Ch9: Dictionaries"

@@ -5,9 +5,9 @@ description:
   - Practicing working with dictionaries
   - Practice reading / writing from files
   - Practice querying a REST API
-type: lab
+type: lecture
 draft: 1
-num: 7
+num: 25
 due_date: 2020-11-16
 ---
 

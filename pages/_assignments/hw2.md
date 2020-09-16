@@ -3,10 +3,10 @@ layout: assignment-two-column
 title: Intro to Tkinter
 abbreviation: HW2
 type: homework
-due_date: 2020-10-01
+due_date: 2020-10-02
 ordering: 1 
 points: 8
-draft: 0
+draft: 1
 ---
 
 <a class="nu-button" href="/fall2020/course-files/homework/hw02.zip" target="_blank">

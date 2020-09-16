@@ -1,13 +1,15 @@
 ---
-layout: two-column
-title: Applictions of For Loops
+layout: assignment-two-column
+title: |
+    For Loops Activity
 description:
     - practice with for loops
     - practice with iterating through a tuple
     - practice writing functions
-type: lecture
+type: tutorial
+abbreviation: Tutorial 5
 draft: 1
-num: 15
+num: 4
 due_date: 2020-10-21
     
 ---

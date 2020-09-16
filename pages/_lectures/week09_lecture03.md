@@ -6,7 +6,7 @@ description:
     - Practice making an app (on the command line)
 type: lecture
 draft: 1
-num: 17
+num: 24
 due_date: 2020-11-13
 exercise_url: "lecture_14.zip"
 slides:

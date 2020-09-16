@@ -1,14 +1,13 @@
 ---
 layout: module
-title: |   
-    Loops 1: While Loops
+title: "While Loops"
 description:
     - What do you want to repeat?
     - How long do you want to repeat it?
     - What changes each time (optional)?
 type: lecture
 draft: 1
-num: 9
+num: 12
 due_date: 2020-10-14
 slides: 
    - title: "Repeating Tasks with Code: While Loops"

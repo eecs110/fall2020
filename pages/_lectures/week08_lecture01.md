@@ -4,9 +4,9 @@ title: Error Handling
 description:
     - When do you use if/else versus try/except?
     - What kind of errors do try/except statements usually handle?
-type: lab
+type: lecture
 draft: 1
-num: 5
+num: 19
 due_date: 2020-11-02
 ---
 

@@ -1,18 +1,12 @@
 ---
 layout: module
-title: |
-    Functions Continued: Third-Party Modules & Variable Scope
+title: "Variable Scope"
 type: lecture
-num: 6
+num: 8
 draft: 1
 due_date: 2020-10-02
 description:
-    - Intro to PIP (python package manager)
     - Global and local variables
-readings:
-  - title: "What is PIP?"
-    url: https://www.pythonforbeginners.com/basics/how-to-use-pip-and-pypi
-    source: "Python for Beginners"
 slides: 
    - title: "Third-Party Modules & Variable Scope"
      url: https://docs.google.com/presentation/d/19QeY3AoZ162C3RFpNBnkzH-KXmqXAJUkQqktWGd2dSM/edit?usp=sharing 

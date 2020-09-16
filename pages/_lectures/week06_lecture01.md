@@ -1,13 +1,12 @@
 ---
 layout: module
-title: |
-    Loops 2: For Loops & Lists
+title: For Loops
 description:
     - Intro to "for..in" syntax
     - Intro to lists and sequences
 type: lecture
 draft: 1
-num: 10
+num: 14
 due_date: 2020-10-19
 slides: 
    - title: "More Loops: For Loops & Lists"

@@ -7,7 +7,7 @@ description:
     - How does a machine learning program / system work?
 type: lecture
 draft: 1
-num: 18
+num: 26
 due_date: 2020-11-18
 
 ---

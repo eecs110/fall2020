@@ -1,11 +1,10 @@
 ---
 layout: two-column
-title: |
-    While Loops and Conditionals
-type: lab
+title: "Applications of While Loops"
+type: lecture
 draft: 1
 points: 4
-num: 3
+num: 13
 description:
   - Practice using if / elif / else
   - Practice using while loops

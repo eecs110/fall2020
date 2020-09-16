@@ -4,7 +4,7 @@ title: |
     Installation & Introductory Exercises
 abbreviation: HW1
 type: homework
-due_date: 2020-09-24
+due_date: 2020-09-25
 ordering: 1
 draft: 0
 points: 8
@@ -67,6 +67,10 @@ cs110
         |-- lecture_01
         |-- lecture_02
         |-- lecture_03
+        ...
+    |-- tutorials
+        |-- tutorial_01
+        |-- tutorial_02
         ...
 ```
 
