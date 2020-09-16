@@ -11,11 +11,12 @@ due_date: 2020-09-16
 slides:
    - url: https://docs.google.com/presentation/d/1QZ4l2ViCeDFjV1lCprAI6AMizmYASGQ2z3YjdKuHIp8/edit?usp=sharing
      title: Course Logistics
-# videos:
-#    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=358762a1-20dc-40b7-88d7-ab90001e7c46
-#      title: Intro to Hardware & Software
-#      duration: |
-#        24:35
+videos:
+   - url: https://northwestern.zoom.us/rec/share/I2_Ca--AHcIBzJEk_xTwNJ9upEuAzydj44wwhX0UqtQ4AN2GxXzyo0izw7nui0LG.7vXfGNec0mqrZeqJ?startTime=1600268954000
+     title: Course Logistics
+     duration: |
+       52:13
+     live: 1
 
 extras:
   - title: "Course Questionnaire"
