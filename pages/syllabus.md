@@ -33,7 +33,7 @@ These tutorials have a few goals:
 2. To force you to write lots of programs (practice makes perfect!)
 2. To help you to gauge what you know and don't know, so that you can make a plan to attend office hours.
 
-Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 5 tutorials**, but are encouraged to complete them all. 
+Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 7 tutorials**, but are encouraged to complete them all. 
 
 
 ## Course Staff
@@ -117,7 +117,7 @@ Your course grade is calculated based on 200 points as follows:
 | **2 Projects** | 2 x 40 Points | 80 Points | 40% |
 | **2 Quizzes** (of 3) | 2 x 30 Points (lowest score dropped) | 60 Points | 30% |
 | **5 Homeworks** (of 6) | 5 x 8 Points (lowest score dropped) | 40 Points | 20% |
-| **5 Tutorials** (of 7 or 8) | 5 x 4 Points (lowest scores dropped) | 20 Points | 10% |
+| **7 Tutorials** (of 9) | 7 x ~3 Points (lowest scores dropped) | 20 Points | 10% |
 | | | **200 Points** | **100%** |
 
 Final grades are assigned on a fixed scale: 93-100 is 
@@ -130,7 +130,7 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 > Because there are unprecedented and uncertain times, I have built leniency into the design of the class. You will be able to:
 > * drop your lowest quiz score (best 2 of 3)
 > * drop your lowest homework score (best 5 of 6)
-> * Keep your best 5 tutorial scores (best 5 of 7 or 8)
+> * Keep your best 7 tutorial scores (best 7 of 9)
 >
 > I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Tutorial1-2 is an ill-advised approach. **I will not grant additional exceptions unless the circumstances are truly exceptional, and this will need to go through the Dean of Students (or some similar NU entity).**
 
