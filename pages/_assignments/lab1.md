@@ -4,7 +4,7 @@ title: Get Python Running
 type: tutorial
 abbreviation: Tutorial 1
 draft: 1
-points: 4
+points: 3
 num: 2
 description: 
     - Writing your first programs

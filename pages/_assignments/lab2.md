@@ -4,7 +4,7 @@ title: Practice with Functions
 type: tutorial
 abbreviation: Tutorial 2
 draft: 1
-points: 4
+points: 3
 num: 2
 description: 
     - Practice creating custom functions

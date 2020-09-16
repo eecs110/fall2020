@@ -4,7 +4,7 @@ title: Practice with Parameters & Arguments
 type: tutorial
 abbreviation: Tutorial 3
 draft: 1
-points: 4
+points: 3
 num: 3
 description: 
   - Positional (required) parameters/arguments

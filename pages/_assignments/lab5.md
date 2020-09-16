@@ -8,6 +8,7 @@ description:
     - practice writing functions
 type: tutorial
 abbreviation: Tutorial 5
+points: 3
 draft: 1
 num: 4
 due_date: 2020-10-21
