@@ -36,6 +36,7 @@ plugins:
 exclude: 
   - _lectures/draft
   - _assignments/draft
+  - course-files
 collections:
   assignments:
     output: true

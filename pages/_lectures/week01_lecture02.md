@@ -30,3 +30,4 @@ readings:
     year: 2012
 ---
 
+<img src="../assets/images/lectures/pbj.png" style="max-width:300px;float:left;margin-right:10px;" /> In today's lesson, we're going to think a little bit more about how computers interpret instructions. <br><br>It is important for you to generate your own model of how a computer processes your instructions so that you can get the feedback you need to write the program you intended.
