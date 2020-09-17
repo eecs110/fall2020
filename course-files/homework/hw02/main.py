@@ -1,5 +1,6 @@
 '''
 Documentation: http://effbot.org/tkinterbook/canvas.htm
+Color Picker: https://coolors.co/
 '''
 from tkinter import Canvas, Tk
 from helpers import make_grid       # import the make_grid function (for debugging)

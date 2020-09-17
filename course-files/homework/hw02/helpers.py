@@ -1,11 +1,10 @@
 '''
 Documentation: http://effbot.org/tkinterbook/canvas.htm
-Color Picker: https://coolors.co/
 '''
 
 
-
-# a convenience function for layout and debugging...this will make more sense in a few weeks.
+# a convenience function for layout and debugging...
+# this will make more sense in a few weeks.
 def make_grid(canvas, w, h):
     interval = 100
 
