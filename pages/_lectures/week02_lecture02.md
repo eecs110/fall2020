@@ -26,6 +26,16 @@ videos:
     title: "Lists & Tuples"
     duration: "10:16"
 
-exercise_url: "lecture_03.zip"
+readings:
+  - title: "Ch9: Lists"
+    author: "Severance"
+    url: https://www.py4e.com/html3/08-lists
+    video_url: https://www.py4e.com/lessons/lists
+  - title: "Ch10: Tuples"
+    author: "Severance"
+    url: https://www.py4e.com/html3/10-tuples
+    video_url: https://www.py4e.com/lessons/tuples
+
+exercise_url: "lecture04.zip"
 ---
 In this lesson, we will review several different concepts. First, we will go over how to use **the command line** in order to run our Python files. 

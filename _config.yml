@@ -40,7 +40,7 @@ exclude:
   - course-files/build
   - course-files/exams
   - course-files/homework/drafts
-  - course-files/labs/drafts
+  - course-files/tutorials/drafts
   - course-files/lectures/drafts
   - course-files/practice_exams/drafts
   - course-files/projects/drafts

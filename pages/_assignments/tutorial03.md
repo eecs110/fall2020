@@ -12,7 +12,7 @@ description:
 due_date: 2020-10-07 
 ---
 
-<a class="nu-button" href="/fall2020/course-files/labs/lab02.zip" target="_blank">
+<a class="nu-button" href="/fall2020/course-files/tutorials/tutorial03.zip" target="_blank">
     Lab Starter Files <i class="fas fa-download"></i>
 </a> 
 

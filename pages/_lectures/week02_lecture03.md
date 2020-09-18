@@ -38,7 +38,7 @@ readings:
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
     notes: "Skim sections 12.1 through 12.4."
 
-exercise_url: "lecture_03.zip"
+exercise_url: "lecture05.zip"
 ---
 
 <img class="module-image" src="/fall2020/assets/images/lectures/lecture_03_functions.png" /> 
