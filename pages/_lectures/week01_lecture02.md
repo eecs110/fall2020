@@ -37,3 +37,9 @@ readings:
 ---
 
 <img src="../assets/images/lectures/pbj.png" style="max-width:300px;float:left;margin-right:10px;" /> In today's lesson, we're going to think a little bit more about how computers interpret instructions. <br><br>It is important for you to generate your own model of how a computer processes your instructions so that you can get the feedback you need to write the program you intended.
+
+## When your program doesn't quite work out
+<img src="../assets/images/lectures/pbj_irl.jpg" style="max-height:250px;" />
+<img src="../assets/images/lectures/seamus.jpg" style="max-height:250px;" />
+<h3>...or perhaps <strong>#teamluis</strong> punked you?</h3>
+
