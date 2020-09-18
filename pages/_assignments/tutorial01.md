@@ -7,6 +7,7 @@ draft: 1
 points: 3
 num: 2
 description: 
+    - Installing Python3 & IDLE
     - Writing your first programs
 due_date: 2020-09-23
 ---
