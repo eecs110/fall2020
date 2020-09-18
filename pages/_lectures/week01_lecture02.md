@@ -19,6 +19,10 @@ videos:
      title: Intro to Hardware & Software
      duration: |
        31:38
+   - url: https://northwestern.zoom.us/rec/share/ubFhcdWdfW73Erf3lZ2t605oP12sje6VuwtyyPQuxHyjV9auQgXQcAid88HyhU8M.qdUYB20dDRe2O4Cz
+     title: "Live Lecture: PB&J"
+     duration: 44:36
+     live: 1
 readings:
   - title: "Ch1: Intro to Computing"
     author: "Charles Severance"
