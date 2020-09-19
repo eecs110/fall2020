@@ -19,10 +19,17 @@ videos:
      title: Intro to Hardware & Software
      duration: |
        31:38
-#    - url: https://northwestern.zoom.us/rec/share/ubFhcdWdfW73Erf3lZ2t605oP12sje6VuwtyyPQuxHyjV9auQgXQcAid88HyhU8M.qdUYB20dDRe2O4Cz
-#      title: "Live Lecture: PB&J"
-#      duration: 44:36
-#      live: 1
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=072fd545-0342-4131-877a-ac3b003e8eeb
+     title: "Live Lecture Part 1: Announcements"
+     duration: 44:36
+     live: 1
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc3c1c38-c571-47eb-8969-ac3b003e8eac
+     title: "Live Lecture Part 2: PB&J"
+     duration: 44:36
+     live: 1
+   - url: https://canvas.northwestern.edu/courses/120087/files/folder/lecture_transcripts?preview=9465377
+     title: "The chat (hilarity!)"
+     live: 1
 readings:
   - title: "Ch1: Intro to Computing"
     author: "Charles Severance"
