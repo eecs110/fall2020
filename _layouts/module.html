@@ -54,10 +54,15 @@ show_schedule: 1
                 {% assign className = "live" %}
                 {% assign type = "lecture" %}
             {% endif %}
+            {% assign label = "Video" | append: " " | append: vnum %}
+            {% if video.chat %}
+                {% assign label = "Chat" %}
+                {% assign type = "chat" %}
+            {% endif %}
             <tr>
                 <td>
                     <a class="{{ className }}" href="{{video.url}}" target="_blank">
-                        Video {{vnum}} <i class="fa fa-link"></i>
+                        {{label}} <i class="fa fa-link"></i>
                     </a>
                 </td>
                 <td>

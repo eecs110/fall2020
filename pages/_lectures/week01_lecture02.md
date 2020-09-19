@@ -21,14 +21,17 @@ videos:
        31:38
    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=072fd545-0342-4131-877a-ac3b003e8eeb
      title: "Live Lecture Part 1: Announcements"
-     duration: 18:29
+     duration: |
+        18:29
      live: 1
    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc3c1c38-c571-47eb-8969-ac3b003e8eac
      title: "Live Lecture Part 2: PB&J"
-     duration: 18:44
+     duration: |
+        18:44
      live: 1
    - url: https://canvas.northwestern.edu/courses/120087/files/folder/lecture_transcripts?preview=9465377
      title: "The chat (hilarity!)"
+     chat: 1
      live: 1
 readings:
   - title: "Ch1: Intro to Computing"

@@ -62,9 +62,12 @@ cs110
     │   |-- hw01
     │   |-- hw02
     |   ...
-    |
     |-- lectures
-        |-- lecture01
-        |-- lecture02
+    │   -- lecture01
+    │   -- lecture02
+    │   ...
+    |-- tutorials
+        |-- tutorial01
+        |-- tutorial02
         ...
 ```
