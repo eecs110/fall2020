@@ -11,8 +11,8 @@ due_date: 2020-09-21
 slides:
   - url: https://docs.google.com/presentation/d/1CyzjjjCYtUxCPWFem1hgkgK2Zdv1losXs1A6DzWfD-8/edit?usp=sharing
     title: The Building Blocks of Programming
-#   - url: https://docs.google.com/presentation/d/1vG9sooc19rLiRMlqdjC3U_OlGrg7kd13hEJQkYvEgRQ/edit?usp=sharing
-#     title: Supplementary Slides for Live Lecture
+  - url: https://docs.google.com/presentation/d/1Qsthtvr5hL4A0QG4RV3lqa_CNjp0r3ctFBaj1A5TaEQ/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
 videos:
    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=270174ec-2451-4c8d-a279-ac3a002e0a1a
      duration: |

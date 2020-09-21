@@ -3,6 +3,12 @@
 # --------------------------------------------------------------------------------
 
 print(True)
+print(False)
+
+##############################################################
+# NOTE: We will be going over logical and comparison operators
+# in week 5. But here's a preview:
+##############################################################
 print(123 == 123)  # expression that evaluates to true using comparison operator (==, >, <, >=, <=, etc.)
 print(123 == 124)  # expression that evaluates to false using comparison operator
 print(True and False)  # expression that evaluates to false using logical operator (and, or, not)
