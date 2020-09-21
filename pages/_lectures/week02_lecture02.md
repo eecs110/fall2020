@@ -5,24 +5,24 @@ type: lecture
 num: 4
 show_schedule: 1
 include_page: "extras/command_line.md"
-draft: 1
+draft: 0
 description:
     - Intro to the command line
     - Lists and tuples (sequences)
 due_date: 2020-09-23
 slides:
-  - url: https://docs.google.com/presentation/d/1Ay4vneiQiF8IttIrGYyGpd8u4flJ0H973l56M-CU7XM/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1n3Kxa6wp8L6wCb1xfhye6wTuhLi3G5ddIY3X33dSMRk/edit?usp=sharing
     title: "The Command Line"
 videos: 
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e2fe3ec-2b11-42b4-98eb-ab9d000de6e7
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b5e7fb1-45d6-4a58-afbd-ac3d00dba629
     duration: "12:40"
     title: |
       Demo: Working with the Command Line
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=417ca261-a7cc-4ad5-a1d6-ab9d0011938b
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d362f396-92c1-4417-bc20-ac3d00dbef14
     duration: "05:59"
     title: |
       Demo: 3 Ways to Execute Python
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5adcb304-8235-4be2-9e74-ab9d001794db
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d888642e-4713-4d68-9ab2-ac3d00dc10d2
     title: "Lists & Tuples"
     duration: "10:16"
 
@@ -38,4 +38,10 @@ readings:
 
 exercise_url: "lecture04.zip"
 ---
-In this lesson, we will review several different concepts. First, we will go over how to use **the command line** in order to run our Python files. 
+In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). 
+
+{:.blockquote-no-margin}
+> ### Note: The slides/files references in the videos have changed slightly
+> Some of the slides / file references have changed from last quarter, but the content is the same.
+
+During lecture, we will be going through several different examples of how you might want to use a list.
