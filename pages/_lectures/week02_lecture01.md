@@ -8,6 +8,7 @@ show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
 due_date: 2020-09-21
+quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122779
 slides:
   - url: https://docs.google.com/presentation/d/1CyzjjjCYtUxCPWFem1hgkgK2Zdv1losXs1A6DzWfD-8/edit?usp=sharing
     title: The Building Blocks of Programming
