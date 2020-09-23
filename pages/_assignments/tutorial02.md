@@ -126,7 +126,7 @@ make_triangle_right(canvas, (500, 300), 100, fill_color='#8FCB9B')
 <img class="medium frame" src="/fall2020/assets/images/tutorial01/after2.png" />
 
 ## What to Turn In
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight.
+Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, please zip your `tutorial02` folder (i.e. create a new tutorial02.zip file), which includes your edited files, and upload it to Canvas. Please be careful that you **don't just upload the original starter files**, but that your zip file includes **YOUR CODE**.  
 
 ## Warning for Mac users: The TKinter bug
 {% capture my_include %}{% include tkinter_bug_mac.md %}{% endcapture %}
