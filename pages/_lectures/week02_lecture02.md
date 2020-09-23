@@ -14,6 +14,8 @@ due_date: 2020-09-23
 slides:
   - url: https://docs.google.com/presentation/d/1n3Kxa6wp8L6wCb1xfhye6wTuhLi3G5ddIY3X33dSMRk/edit?usp=sharing
     title: "The Command Line, Running Python, Lists & Tuples"
+  - url: https://docs.google.com/presentation/d/18vPQYcpN_IH2Abj42MEA9S9BBWQT4B5knZYY-gmD_78/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
 videos: 
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b5e7fb1-45d6-4a58-afbd-ac3d00dba629
     duration: "12:40"
