@@ -6,6 +6,7 @@ num: 4
 show_schedule: 1
 include_page: "extras/command_line.md"
 draft: 0
+quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964
 description:
     - Intro to the command line
     - Lists and tuples (sequences)
@@ -25,7 +26,6 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d888642e-4713-4d68-9ab2-ac3d00dc10d2
     title: "Lists & Tuples"
     duration: "10:16"
-
 readings:
   - title: "Ch9: Lists"
     author: "Severance"
