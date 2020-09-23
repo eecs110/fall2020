@@ -28,6 +28,11 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d888642e-4713-4d68-9ab2-ac3d00dc10d2
     title: "Lists & Tuples"
     duration: "10:16"
+  - url: https://northwestern.zoom.us/rec/share/3eXVEf21arzZ8L2mTA_sDvUri1PH58DUsC4RYmLfgf-1MPau06B-r-Ru4wvACR6X.A8iuRaSmB18u3rfK?startTime=1600874151000
+    live: 1
+    title: Practice with the command line, lists, and tuples
+    duration: |
+        47:41
 readings:
   - title: "Ch9: Lists"
     author: "Severance"
