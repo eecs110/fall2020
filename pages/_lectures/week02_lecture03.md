@@ -13,8 +13,8 @@ due_date: 2020-09-25
 slides:
   - url: https://docs.google.com/presentation/d/15YZ9y27W116UjxhU34jgh8Juy3dMKtg2cJyvmpmrHF4/edit?usp=sharing
     title: "Intro to Functions"
-#   - url: https://docs.google.com/presentation/d/1VG5VzsFl1-3Jhx5vg6dE7Q5E4UdFDArEfN-SFOW_dM8/edit?usp=sharing
-#     title: Supplementary Slides for Live Lecture
+  - url: https://docs.google.com/presentation/d/1VG5VzsFl1-3Jhx5vg6dE7Q5E4UdFDArEfN-SFOW_dM8/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
 videos: 
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e2f95f7-bb7a-46fa-981f-ac3f00e58f30
     title: "Expressions & Intro to Functions"
