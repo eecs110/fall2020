@@ -25,6 +25,11 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e20884ad-6be9-4c89-bfce-ac3f00f17646
     title: "Built-In Functions Demo"
     duration: "09:10"
+  - url: https://northwestern.zoom.us/rec/share/DZvCoZQkHTJDrAuF7upiUWIYWLiWQeP2P4EPT_EUdcdACHrSvfDfteYX1GXbZ67S.USz0IOhV0mcBTzwX?startTime=1601046960000
+    live: 1
+    title: Practice calling functions
+    duration: |
+        51:23
 
 
 readings:
@@ -39,6 +44,7 @@ readings:
     author: "Heinold"
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
     notes: "Skim sections 12.1 through 12.4."
+
 
 exercise_url: "lecture05.zip"
 ---
