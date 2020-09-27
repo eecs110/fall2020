@@ -18,13 +18,18 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=caf95756-c977-4be5-979a-ac43002bd2e6
     title: "The rules for defining functions"
     duration: "7:50"
-
-# #   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65b0084c-d4ee-4cdd-8e48-ab9e0130e259
-# #     title: "Making our first function"
-# #     duration: "10:11"
-# #   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6bf46e1-f5dd-44b5-ac41-ab9e0133f64d
-# #     title: "More on parameters and arguments"
-# #     duration: "7:20"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e8ab45f-b4c8-459d-ac8a-ac43003b97da
+    title: "Creating your first function"
+    duration: "11:53"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=263968a6-30b2-41d5-bff4-ac43003f039c
+    title: "Creating your second function"
+    duration: "12:30"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5706868e-c1b1-45bb-9602-ac430042922f
+    title: "Creating your third function"
+    duration: "8:33"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd19ef35-4be4-4c43-909f-ac4300478ccd
+    title: "Terminology and documentation"
+    duration: "15:00"
 
 exercise_url: "lecture06.zip"
 ---
