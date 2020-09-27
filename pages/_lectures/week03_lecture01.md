@@ -14,7 +14,7 @@ slides:
 videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5977462-323e-4ef8-8f01-ac430031a599
     title: "Built-in functions review"
-    duration: "12:03"
+    duration: "21:02"
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=caf95756-c977-4be5-979a-ac43002bd2e6
     title: "The rules for defining functions"
     duration: "7:50"
