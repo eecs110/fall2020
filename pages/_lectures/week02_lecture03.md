@@ -40,10 +40,7 @@ readings:
   - title: "Ch4: Functions"
     author: "Heinold"
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
-  - title: "Ch12: Modules"
-    author: "Heinold"
-    url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
-    notes: "Skim sections 12.1 through 12.4."
+
 
 
 exercise_url: "lecture05.zip"
