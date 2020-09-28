@@ -33,6 +33,11 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd19ef35-4be4-4c43-909f-ac4300478ccd
     title: "Terminology and documentation"
     duration: "15:00"
+  - url: https://northwestern.zoom.us/rec/share/uL8fFf2vZNxkHsi-0_uLaMduMaWFPVyf1bhgzuSfnHJ3y4nuoPvLEJj69w0k9YRl.iOd2w_UvieqNIxbn?startTime=1601306140000
+    live: 1
+    title: Practice writing functions (part 1)
+    duration: |
+        48:10
 
 exercise_url: "lecture06.zip"
 ---
