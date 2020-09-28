@@ -8,9 +8,12 @@ description:
   - Creating your own functions
   - Defining versus invoking functions
 due_date: 2020-09-28
+quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/123374
 slides:
   - url: https://docs.google.com/presentation/d/1wd6Xa7-3tgrLBC_IaW1GfWrvIwx9S5bxW2wpNsuTTIQ/edit?usp=sharing
     title: "Creating your own functions"
+  - url: https://docs.google.com/presentation/d/1m3AsUBCBKi3Wi9o7zXBVFXU1OXMYg7-V-Ykp8rS5O8Q/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
 videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5977462-323e-4ef8-8f01-ac430031a599
     title: "Built-in functions review"
