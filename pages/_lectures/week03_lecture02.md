@@ -13,4 +13,4 @@ slides:
 exercise_url: "lecture07.zip"
 ---
 
-In this lecture, we will be continuing our exploration of functions. The relevant videos and sample files can be found in [Lesson 6](week03-lecture01)
+In this lecture, we will be continuing our exploration of functions. The relevant videos can be found in [Lesson 6](week03-lecture01).
