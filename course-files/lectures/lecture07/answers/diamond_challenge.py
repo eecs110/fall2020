@@ -3,7 +3,7 @@ from helpers import make_grid
 
 # initialize window
 gui = Tk()
-canvas = Canvas(gui, width=700, height=450, background='white')
+canvas = Canvas(gui, width=700, height=550, background='white')
 canvas.pack()
 
 ########################## YOUR CODE BELOW THIS LINE ##############################
@@ -36,9 +36,24 @@ def four_diamonds(canvas, center, size=200, fill_color='teal'):
     create_diamond(canvas, (x, y + radius), diamond_size, fill_color=fill_color)
     create_diamond(canvas, (x - radius, y), diamond_size, fill_color=fill_color)
 
-make_grid(canvas, 700, 450)
-four_diamonds(canvas, (200, 200), size=300)
-four_diamonds(canvas, (200, 200), size=100, fill_color='hotpink')
+def sixteen_diamonds(canvas, center, size=200, fill_color='teal'):
+    diamond_size = size / 2
+    radius = diamond_size / 2
+    x, y = center
+    four_diamonds(canvas, (x, y - radius), diamond_size, fill_color=fill_color)
+    four_diamonds(canvas, (x + radius, y), diamond_size, fill_color=fill_color)
+    four_diamonds(canvas, (x, y + radius), diamond_size, fill_color=fill_color)
+    four_diamonds(canvas, (x - radius, y), diamond_size, fill_color=fill_color)
+
+
+# invoke your functions:
+make_grid(canvas, 700, 550) # just for seeing grid lines
+
+create_diamond(canvas, (100, 400), 100, fill_color='yellow')
+
+four_diamonds(canvas, (200, 200), size=300, fill_color='hotpink')
+
+sixteen_diamonds(canvas, (550, 275), size=200, fill_color='teal')
 
 
 
