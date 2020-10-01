@@ -33,4 +33,6 @@ readings:
 
 In today's pre-recorded lectures, we are going to go over:
 1. Modules: a way of organizing and reusing code, and
-2. Variable scope: Today we are going to pick up from Wednesday and try our diamond exercise again (without rushing through it). 
+2. Variable scope: what parts of memory can your program access at any given time?
+
+In live lecture, we will pick up from Wednesday and try our diamond exercise again (without rushing through it). 
