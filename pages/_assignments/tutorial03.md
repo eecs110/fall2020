@@ -13,10 +13,10 @@ due_date: 2020-10-07
 ---
 
 <a class="nu-button" href="/fall2020/course-files/tutorials/tutorial03.zip" target="_blank">
-    Lab Starter Files <i class="fas fa-download"></i>
+    Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
-In this lab, you are going to design a customizable function that creates an image of Frankenstein (pictured below). The purpose of this exercise is to help you figure out how to use parameters and variables in order to make your ideas more flexible, customizable, and therefore more useful.
+In this tutorial, you are going to design a customizable function that creates an image of Frankenstein (pictured below). The purpose of this exercise is to help you figure out how to use parameters and variables in order to make your ideas more flexible, customizable, and therefore more useful.
 
 To do this, we're going to walk you through a series of steps to begin trying to "think computationally" -- i.e. finding places where code repeats and modularizing it using variables, functions, and parameters. We only have a few tools that are at our disposal right now, but just note that this code in this exercise can be further simplified in a few weeks when we learn more about loops.
 
