@@ -4,16 +4,15 @@ title: Make a Creature
 abbreviation: HW3
 type: homework
 due_date: 2020-10-08
-ordering: 2
+ordering: 3
 points: 8
-draft: 1
+draft: 0
 ---
 
 <a class="nu-button" href="/fall2020/course-files/homework/hw03.zip" target="_blank">
     Homework Starter Files <i class="fas fa-download"></i>
 </a> 
 
-{: .blockquote-no-margin}
 > **LEARNING OBJECTIVES:** 
 > 1. More practice working with built-in functions
 > 1. Practice writing your own functions
@@ -21,7 +20,7 @@ draft: 1
 <img class="creature" src="/fall2020/assets/images/hw02/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own design/choosing using <a href="" target="_blank">tkinter</a>. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (it's a confusing concept for people just learning to program), ask Sarah during class or ask your TAs during lab / office hours.
 
 ## Part 1: Design your creature
-On paper, sketch out at least 3 creature ideas — it can be different variations of the same creature or all different ones. You can just implement the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas:
+On paper, sketch out at least 3 VERY SIMPLE creature ideas (shoot for using between 4-8 shapes). These can be different variations of the same creature or all different ones. You can just implement the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas:
 
 * <a href="https://images.squarespace-cdn.com/content/v1/53dd4013e4b05d8340b1c32c/1558819051622-BO3Y418I3RW2B4X2UGY4/ke17ZwdGBToddI8pDm48kJveJ6bDu4t8jo69sot7N517gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UclebCXK_qWyAU_WdFPQdIW8jKJG7706TR3OFKcgb9BQHrvtV3ieEGBkdu4ICJqedg/a-z.jpg?format=1500w" target="_blank">cute monsters</a>
 * <a href="https://www.youtube.com/watch?v=yh_A09CrT68" target="_blank">https://www.youtube.com/watch?v=yh_A09CrT68</a>
@@ -33,10 +32,10 @@ Feel free to post simple creature drawing ideas on the course Piazza under hw3.
 From your 3 sketched ideas, select the one that you would like to use for the assignment and draw the creature bigger on a different piece of paper — ideally graph paper — and label the points that will help you to program your creature. 
 
 {: .blockquote-no-margin}
-> **NOTE:** Making a simple creature (e.g using 4-8 shapes) is totally fine. You don’t need to get too detailed unless you want to!
+> **AGAIN:** Making a simple creature (e.g using 4-8 shapes) is totally fine. You don’t need to get too detailed unless you want to! And you can always enhance your creature at a later point in time.
 
 ## Part 2: Implement your "make_creature" function
-Once you are satisfied with your animal concept, create a `make_creature` function, inside of `creature.py`, using any combination of shapes (points, lines, polygons, rectangles, ovals, etc.). Feel free to use the `make_circle` and `make_oval` functions that you already implemented in homework 2. Also feel free to use any of the code in `warm_up.py`.
+Once you are satisfied with your animal concept, create a `make_creature` function, inside of `creature.py`, using any combination of shapes (points, lines, polygons, rectangles, ovals, etc.). Feel free to use the `make_circle` and `make_oval` functions that you already implemented in homework 2. Also feel free to use any of the code in `warm_up.py`. The spirit of this assignment is for you to get creative, given your developing knowledge of functions.
 
 **Tips**: 
 1. Keep it simple (we recommend anywhere between 4-8 shapes)! You can always add more functionality later.

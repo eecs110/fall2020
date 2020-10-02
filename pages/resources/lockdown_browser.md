@@ -5,7 +5,7 @@ permalink: /resources/lockdown-browser/
 ---
 
 
-You will need to install Lockdown Browser for the exams.  Please do this now so that we don't run into any problems later. Once completed, please do "Practice Exam - Requires Respondus LockDown Browser" on canvas to make sure that you have Lockdown Browser set up properly. The practice exam is located under the "Quizzes" section. The point of this exam is to get you comfortable with the exam format. 
+You will need to install Lockdown Browser for the graded quizzes.  Please do this now so that we don't run into any problems later. Once completed, please do "Practice Quiz - Requires Respondus LockDown Browser" on Canvas to make sure that you have Lockdown Browser set up properly. The practice exam is located under the "Quizzes" section. The point of this exam is to get you comfortable with the exam format. 
 
 Here are some instructions from the Northwestern remote testing guide:
 

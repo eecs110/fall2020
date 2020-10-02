@@ -19,7 +19,7 @@ draft: 0
 > 1. Practice writing your own functions
 
 
-<img class="creature" src="/fall2020/assets/images/hw02/creature.png" /> In this assignment, you are going to get some practice writing functions using tkinter that will ultimately enable you to create more complex shapes (like animals, trees, plants, etc.). To do this, we will be using a built-in python module: tkinter. Tkinter provides support for creating custom graphical user interfaces (GUIs). I created the buddy to the right using 5 circles, one polygon, and two lines (8 shapes total) in tkinter. Please download the homework starter files (above).
+In this assignment, you are going to get some practice writing functions using tkinter that will ultimately enable you to create more complex shapes (like animals, trees, plants, etc.). To do this, we will be using a built-in python module: tkinter. Tkinter provides support for creating custom graphical user interfaces (GUIs). I created the buddy to the right using 5 circles, one polygon, and two lines (8 shapes total) in tkinter. Please download the homework starter files (above).
 
 ## 1. Background Information
 

@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Practice with Parameters & Arguments
 type: tutorial
 abbreviation: Tutorial 3
-draft: 1
+draft: 0
 points: 3
 num: 3
 description: 
@@ -16,7 +16,7 @@ due_date: 2020-10-07
     Lab Starter Files <i class="fas fa-download"></i>
 </a> 
 
-In this lab, you are going to design a customizable function that creates an image of Frankenstein (pictured left). The purpose of this exercise is to help you figure out how to use parameters and variables in order to make your ideas more flexible, customizable, and therefore more useful.
+In this lab, you are going to design a customizable function that creates an image of Frankenstein (pictured below). The purpose of this exercise is to help you figure out how to use parameters and variables in order to make your ideas more flexible, customizable, and therefore more useful.
 
 To do this, we're going to walk you through a series of steps to begin trying to "think computationally" -- i.e. finding places where code repeats and modularizing it using variables, functions, and parameters. We only have a few tools that are at our disposal right now, but just note that this code in this exercise can be further simplified in a few weeks when we learn more about loops.
 
@@ -27,7 +27,7 @@ In addition to gaining more practice with functions, there are three takeaways t
 3. That programmers learn new techniques for solving problems by looking at examples of how other people have solved similar problems. Over time, you too will begin to develop a set of common strategies for solving classes of problems, and that comes by seeing lots of examples (and practicing).
 
 ## Part 1: Understanding the "hardcoded" version of Frank
-Please open the `your_task.py` file and take a look at it. Note that it is making use of the `make_square` function that you made in [Lab 1](06lab).
+Please open the `your_task.py` file and take a look at it. Note that it is making use of the `make_square` function that you made in [Tutorial 2](tutorial02).
 
 ```python
 body_color = '#5ec031'
@@ -65,7 +65,7 @@ make_square(canvas, (150, 75), 25, fill_color=body_color)            # pixel (7,
 
 Then run it using IDLE (or a code editor of your choice). You should see a picture of Frank (below). 
 
-<img class="small frame" src="/fall2020/assets/images/lab02/frank1.png" />
+<img class="small frame" src="/fall2020/assets/images/tutorials/frank1.png" />
 
 A few things to pay attention to in this file:
 
@@ -114,7 +114,7 @@ make_frank(canvas, (420, 10), pixel=15)
 
 ```
 
-<img class="medium frame" src="/fall2020/assets/images/lab02/franks.png" />
+<img class="medium frame" src="/fall2020/assets/images/tutorials/franks.png" />
 
 ## Optional Challenges
 
@@ -123,11 +123,5 @@ make_frank(canvas, (420, 10), pixel=15)
 3. The pixel argument is kind of awkward. Arguably a better function design would allow the calling function to specify the width of Frank (as opposed to the individual pixels that comprise him). Therefore, modify the function header so that it requires a `width` (int) parameter instead of a `pixel` parameter. This change means that you will need to derive the appropriate size of the pixel based on the width and the number of columns needed to generate Frank (which is 9). When you're done, update each of the function calls at the bottom of the file so that they pass in a width argument.
 
 ## What to Turn In
-As described in the syllabus, there are two ways to earn full participation credit in each lab session:
-
-1. By attending them (synchronously), working through the exercises, and asking questions (as they arise).
-2. By turning in the lab exercise(s) ON CANVAS **before** the lab session. Lab exercises will be posted at the beginning of the week (at least 48 hours in advance). 
-
-Whichever option you choose, you will be expected to know the material reviewed in the lab for the exam, and are encouraged to fully complete and submit the lab assignments (though this is not required if you attended the lab).
-
+Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial03` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
 
