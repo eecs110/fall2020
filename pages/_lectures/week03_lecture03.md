@@ -15,13 +15,13 @@ slides:
     title: "Variable Scope"
   - url: https://docs.google.com/presentation/d/1Knh9-oqYUW-8g2t7blKTwFGRgIHNvG0YiSFnu6ndncE/edit?usp=sharing
     title: "Supplementary Slides for Live Lecture"
-# videos:
-#    - title: "Variable Scope: Local Variables"
-#      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ed07510-3bb5-4a07-a19b-aba4001f8407
-#      duration: "9:38"
-#    - title: "Variable Scope: Global Variables"
-#      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=295fc8f6-27e6-4489-8c9b-aba400228ed9
-#      duration: "7:09"
+videos:
+   - title: "Modules"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf22c7a-a0a5-4dd3-aa04-ac4800281691
+     duration: "20:05"
+   - title: "Variable Scope"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
+     duration: "16:43"
 
 exercise_url: "lecture08.zip"
 readings:
