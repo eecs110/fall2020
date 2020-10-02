@@ -23,7 +23,7 @@ slides:
 #      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=295fc8f6-27e6-4489-8c9b-aba400228ed9
 #      duration: "7:09"
 
-exercise_url: "lecture_08.zip"
+exercise_url: "lecture08.zip"
 readings:
   - title: "Ch12: Modules"
     author: "Heinold"
