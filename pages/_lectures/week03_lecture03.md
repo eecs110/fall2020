@@ -22,6 +22,10 @@ videos:
    - title: "Variable Scope"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
      duration: "16:43"
+   - title: "More functions / modules practice"
+     url: https://northwestern.zoom.us/rec/share/OBOhodJVdQaAwZAOm8Ujy6EH3GDsxi9NyaHrYfw-YNdgYa7JQVI6GJhzZiMUIbwn.2Di9mwhMT9S81-2e?startTime=1601651807000
+     duration: "51:07"
+     live: 1
 
 exercise_url: "lecture08.zip"
 readings:
