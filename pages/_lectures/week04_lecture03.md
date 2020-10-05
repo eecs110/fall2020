@@ -16,3 +16,8 @@ due_date: 2020-10-09
     * Thursday night from 9PM-9:50PM (for those students in Asian time zones)
     * Friday morning during regularly scheduled class time (10:20AM-11:10AM)
 * The practice quiz, which requires using the [Lockdown Browser](../resources/lockdown-browser), will be posted Sunday evening, 10/4.
+
+## Practice Quiz Now Available!
+The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/124320" target="_blank">here</a>. To take it, you need to download the Lockdown Browser, open it, and use it to log into Canvas. Once you've done this, navigate to the CS110 Quiz section and take the quiz just as you have taken the others.
+
+Start early. You can take the quiz as many times as you want to practice.
