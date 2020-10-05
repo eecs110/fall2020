@@ -35,6 +35,25 @@ canvas.create_line(
     [ (10, 0),  (210, 100),  (420, 0),  (630, 100) ],  # list of x-y pairs
     width=3)
 
+# make an arc:
+canvas.create_line(
+    [ (350, 50),  (430, 50),  (450, 200) ],  # list of x-y pairs
+    width=5,
+    fill='#0074D9',
+    splinesteps=15,
+    smooth=True)
+
+# make line that looks like an arc:
+canvas.create_arc(
+        [
+            (150, 50), 
+            (350, 350)
+        ],
+        width=5,
+        style='arc',
+        outline='#0074D9'
+    )
+
 # make a dashed line: 
 canvas.create_line(
     [ (10, 100),  (210, 0),  (420, 100),  (630, 10) ], 
