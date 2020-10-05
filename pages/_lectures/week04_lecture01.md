@@ -18,4 +18,6 @@ slides:
 exercise_url: "lecture09.zip"
 ---
 
-In lecture today, we're going to go over installing third-party modules using PIP (a command line tool to install third-party Python libraries). If we have time, we can also go over any questions that you have about writing functions. We will also have all day on Wednesday to go over any questions relating to Quiz 2.
+In lecture today, we're going to go over installing third-party modules using PIP (a command line tool to install third-party Python libraries). This will not be on the quiz, but it's important when you're working with Python. 
+
+If we have time, we can also go over any questions that you have about writing functions. We will also have all day on Wednesday to go over any questions relating to Quiz 2.
