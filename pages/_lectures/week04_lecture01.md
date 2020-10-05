@@ -3,7 +3,7 @@ layout: module
 title: Introduction to PIP
 type: lecture
 num: 9
-draft: 1
+draft: 0
 due_date: 2020-10-05
 description:
     - Intro to PIP (python package manager)
@@ -13,15 +13,9 @@ readings:
     source: "Python for Beginners"
 slides: 
    - title: "Third-Party Modules"
-     url: https://docs.google.com/presentation/d/19QeY3AoZ162C3RFpNBnkzH-KXmqXAJUkQqktWGd2dSM/edit?usp=sharing 
-videos:
-   - title: "External Modules & PIP"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d68cfb5-a5e9-4d79-859a-aba40035d3e7"
-     duration: "19:35"
+     url: https://docs.google.com/presentation/d/1q_tC3m7_T0JhzFIkU0pFObpvYdvkZnXKWko5r28jCa0/edit?usp=sharing
 
-exercise_url: "lecture_05.zip"
+exercise_url: "lecture09.zip"
 ---
 
-In this lesson, we're going to go over some remaining function-related ideas including:
-1. Installing third-party modules using PIP (a command line tool to install third-party Python libraries).
-2. Getting a little more practice with creating functions
+In lecture today, we're going to go over installing third-party modules using PIP (a command line tool to install third-party Python libraries). If we have time, we can also go over any questions that you have about writing functions. We will also have all day on Wednesday to go over any questions relating to Quiz 2.

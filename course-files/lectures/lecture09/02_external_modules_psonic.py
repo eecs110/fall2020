@@ -8,6 +8,8 @@
 import psonic
 # Note: psonic allows us to pass commands into Sonic Pi programmatically
 
+
+# List of MIDI Notes: https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 psonic.use_synth(psonic.PIANO)
 psonic.play(76)
 psonic.sleep(0.25)
