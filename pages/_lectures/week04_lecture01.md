@@ -7,6 +7,11 @@ draft: 0
 due_date: 2020-10-05
 description:
     - Intro to PIP (python package manager)
+videos:
+  - title: PIP Demo
+    url: https://northwestern.zoom.us/rec/share/mh5D0w65HXH6L-OSRNrE7SVxhnWP0NfsCDDEVj-A2g_L1pXoZiRWyJcT5wLzylE3.7RAinmpX2ipigJRa?startTime=1601911113000
+    live: 1
+    duration: "46:018"
 readings:
   - title: "What is PIP?"
     url: https://www.pythonforbeginners.com/basics/how-to-use-pip-and-pypi
