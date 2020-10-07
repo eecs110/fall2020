@@ -47,13 +47,11 @@ Write a function that shifts a list of three coordinate pairs by some horizontal
 ```python
 
 # here is how I would call your function...
-#
-# print(shift_coordinates([(20, 20), (30, 30), (40, 40)], x_units=100, y_units=200))
-# print(shift_coordinates([(40, 40), (100, 100), (200, 200)], x_units=50, y_units=100))
-# print(shift_coordinates([(40, 40), (100, 100), (200, 200)]))
+print(shift_coordinates([(20, 20), (30, 30), (40, 40)], x_units=100, y_units=200))
+print(shift_coordinates([(40, 40), (100, 100), (200, 200)], x_units=50, y_units=100))
+print(shift_coordinates([(40, 40), (100, 100), (200, 200)]))
 
 # ...and here's what would print to the screen...
-#
 # [(120, 20), (130, 230), (140, 240)]
 # [(90, 140), (150, 200), (250, 300)]
 # [(40, 40), (100, 100), (200, 200)]
