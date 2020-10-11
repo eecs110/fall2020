@@ -1,7 +1,6 @@
 ---
 layout: assignment-two-column
-title: TBD
-
+title: Event Handlers
 type: tutorial
 abbreviation: Tutorial 6
 draft: 1

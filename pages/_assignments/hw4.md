@@ -3,10 +3,10 @@ layout: assignment-two-column
 title: Animations & Landscapes
 abbreviation: HW4
 type: homework
-files: course-files/assignments/hw05.zip
+files: course-files/assignments/hw04.zip
 due_date: 2020-10-23
 points: 8
-draft: 1
+draft: 0
 ---
 
 
