@@ -36,7 +36,7 @@ Your job is to finish the game by implementing the following features:
 1. You will need some combination of if, elif, and/or else statements to check whether the user’s guess is too low or too high. There are many ways to do this.
 
 
-## Part 2: Simplify the vertical circles program
+## Part 2: Simplify the vertical circles program [loops preview]
 1. Open `02_vertical_circles.py` 
 2. See if you can use a while loop to recreate this functionality, where there is only one make_circle function call that is repeated within a while loop.
 
