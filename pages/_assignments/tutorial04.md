@@ -62,9 +62,4 @@ Practice creating the following shapes using a while loop. The first three shape
 
 
 ## What to turn in (same deal as always)
-As described in the syllabus, there are two ways to earn full participation credit in each tutorial session:
-
-1. By attending them (synchronously), working through the exercises, and asking questions (as they arise).
-2. By turning in the tutorial exercise(s) ON CANVAS **before** the tutorial session. Tutorial exercises will be posted at the beginning of the week (at least 48 hours in advance). 
-
-Whichever option you choose, you will be expected to know the material reviewed in the tutorial for the exam, and are encouraged to fully complete and submit the tutorial assignments (though this is not required if you attended the tutorial).
+Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial04` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
