@@ -27,7 +27,7 @@ videos:
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=face3e16-0900-41bf-95aa-ac5300db3cb9
      duration: "9:07"
    - title: "While loops example"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37c3c020-0c9b-4b28-9bfe-ac5300e78956"
      duration: "15:51"
    - title: "Loops & Lists"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
