@@ -26,15 +26,12 @@ videos:
    - title: "Introduction to loops"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=face3e16-0900-41bf-95aa-ac5300db3cb9
      duration: "9:07"
-#    - title: "While loops practice"
-#      url: ""
-#      duration: "12:22"
-#    - title: "Loops & Lists"
-#      url: ""
-#      duration: "11:37"
-#    - title: "Challenge problem"
-#      url: ""
-#      duration: "15:26"
+   - title: "While loops example"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
+     duration: "15:51"
+   - title: "Loops & Lists"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
+     duration: "22:04"
 
 exercise_url: "lecture12.zip"
 ---
