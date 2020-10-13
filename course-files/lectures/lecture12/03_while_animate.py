@@ -29,17 +29,17 @@ time.sleep(1)
 # move circle
 shapes.move(canvas, circle_id, x=60, y=0)
 gui.update()
-time.sleep(1)
+time.sleep(1)  # pause for 1 second
 
 # move circle
 shapes.move(canvas, circle_id, x=60, y=0)
 gui.update()
-time.sleep(1)
+time.sleep(1) # pause for 1 second
 
 # move circle
 shapes.move(canvas, circle_id, x=60, y=0)
 gui.update()
-time.sleep(1)
+time.sleep(1) # pause for 1 second
 
 
 

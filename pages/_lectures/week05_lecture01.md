@@ -42,4 +42,4 @@ videos:
 exercise_url: "lecture11.zip"
 ---
 
-<img class="module-image" src="/fall2020/assets/images/lectures/lecture_06_fork.jpg" /> In this lesson, we're going to go over conditional logic, which will allow you to write programs that have different outcomes depending on the data, events, and/or user interactions that take place as your program executes. This is often referred to as your program's "state." Specifically, we'll cover: (a) if, if/else, if/elif.../else statements, (b) comparison operators, (c) truth tables, and (d) scenarios where you might want to use if/elif/else statements.
+<img class="module-image" src="/fall2020/assets/images/lectures/fork.jpg" /> In this lesson, we're going to go over conditional logic, which will allow you to write programs that have different outcomes depending on the data, events, and/or user interactions that take place as your program executes. This is often referred to as your program's "state." Specifically, we'll cover: (a) if, if/else, if/elif.../else statements, (b) comparison operators, (c) truth tables, and (d) scenarios where you might want to use if/elif/else statements.

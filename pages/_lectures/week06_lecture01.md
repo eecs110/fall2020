@@ -3,7 +3,7 @@ layout: module
 title: For Loops
 description:
     - Intro to "for..in" syntax
-    - Intro to lists and sequences
+    - Using "for..in" with lists and sequences
 type: lecture
 draft: 1
 num: 14

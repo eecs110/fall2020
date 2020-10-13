@@ -24,10 +24,6 @@ while True:
 
 
 
-
-
-
-
 ########################## YOUR CODE ABOVE THIS LINE ############################## 
 # makes sure the canvas keeps running:
 canvas.mainloop()
