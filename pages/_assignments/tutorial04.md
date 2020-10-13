@@ -5,7 +5,7 @@ type: tutorial
 abbreviation: Tutorial 4
 draft: 0
 points: 3
-num: 3
+num: 4
 due_date: 2020-10-14 
 ---
 

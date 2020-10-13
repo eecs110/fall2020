@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Practice with Parameters & Arguments
 type: tutorial
 abbreviation: Tutorial 3
-draft: 0
+draft: 1
 points: 3
 num: 3
 description: 
