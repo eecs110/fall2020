@@ -32,6 +32,10 @@ videos:
    - title: "Loops & Lists"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
      duration: "22:04"
+   - title: "Practice with logical and comparison operators; while loops"
+     url: "https://northwestern.zoom.us/rec/share/FnEx9uhPBG7cOTXFoPfOfKnJMqCMNmPOI0HHPpni5IXEakF9oM4JOUWrGDeNi3E.Osk_izuHiHL6NhSa?startTime=1602688576000"
+     duration: "49:31"
+     live: 1
 
 exercise_url: "lecture12.zip"
 ---
