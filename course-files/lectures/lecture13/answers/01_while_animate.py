@@ -8,19 +8,19 @@ canvas = Canvas(gui, width=500, height=500, background='white')
 canvas.pack()
 ########################## YOUR CODE BELOW THIS LINE ##############################
 
-
-#make car:
-top_id = shapes.make_rectangle(canvas, (100, 20), 100, 40, tag='car_1')
-bottom_id = shapes.make_rectangle(canvas, (50, 50), 200, 45, tag='car_1')
-wheel1_id = shapes.make_circle(canvas, (100, 100), 20, color='black', tag='car_1')
-wheel2_id = shapes.make_circle(canvas, (200, 100), 20, color='black', tag='car_1')
-
+# make circle
+shapes.make_circle(canvas, (100, 100), 40, color='hotpink', tag='circle_1')
+shapes.make_circle(canvas, (100, 100), 20, color='teal', tag='circle_2')
 
 while True:
-    # move car:
-    shapes.move(canvas, 'car_1', x=3, y=0)
+    shapes.move(canvas, 'circle_1', x=2, y=0)
+    shapes.move(canvas, 'circle_2', x=0, y=3)
     gui.update()
     time.sleep(.001)
+
+
+
+
 
 
 

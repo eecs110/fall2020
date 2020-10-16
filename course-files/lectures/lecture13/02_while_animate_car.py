@@ -9,15 +9,13 @@ canvas.pack()
 ########################## YOUR CODE BELOW THIS LINE ##############################
 
 # Challenge:
-# Do the same thing as in 05_while_animate, but with
-# all 4 shapes: 
-#   1. Make the car smoothly drive across the screen
-#   2. Make it drive backwards (on your own)
-#   3. Make it drive vertically (on your own)
-#   4. Make it drive diagonally (on your own)
-#   5. If it gets to the end, of the screen, 
-#      make it reverse directions (on your own)
-#   6. Make it accelerate (on your own)
+# 1. Turn the car code into a function, with a customizable 
+#    position, color, and tag (let’s skip size for now b/c the arithmetic 
+#    is a little tedious and you’re doing that in your homework).
+# 2. Note that the “tag” parameter is useful so that you can refer to 
+#    the car later when you want to animate it.
+# 3. Create 3 cars (different tags, sizes, and colors)
+# 4. Animate each car differently
 
 
 #make car:
