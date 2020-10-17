@@ -13,20 +13,19 @@ slides:
      url: https://docs.google.com/presentation/d/1EO7Lk5iv_k7dw5FgfLO13T1AD2-LpRzCd-uHtDSq8yM/edit?usp=sharing
 #    - title: "Supplementary Slides for Live Lecture"
 #      url: https://docs.google.com/presentation/d/1pvxr4V5eI6-FHzWgyegmPQbEha_Cw6-Xlb3DoDjudS4/edit?usp=sharing
-# videos:
-#    - title: "Intro to for loops"
-#      # url: ""
-#      duration: "12:01"
-#    - title: "break and continue"
-#      # url: ""
-#      duration: "10:29"
-#    - title: "The range function"
-#      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46489f3e-0c40-478b-8f76-ac570179345d"
-#      duration: "9:09"
-#    - title: "Looping algorithms"
-#      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
-#      duration: "14:02"
-
+videos:
+   - title: "Intro to for loops"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c52b7ba-2496-4e69-a5b8-ac5701804a89"
+     duration: "8:29"
+   - title: "Break and continue"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24f8c3b6-d2f2-4c55-90dd-ac570182c230"
+     duration: "6:59"
+   - title: "The range function"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46489f3e-0c40-478b-8f76-ac570179345d"
+     duration: "9:09"
+   - title: "Looping algorithms"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
+     duration: "14:02"
 
 exercise_url: "lecture14.zip"
 ---
