@@ -28,7 +28,7 @@ slides:
 #      duration: "14:02"
 
 
-exercise_url: "lecture_08.zip"
+exercise_url: "lecture14.zip"
 ---
 
 Today, we will be introducing the "for loop" and using it to work with lists and sequences. We will also be exploring some different looping algorithms: applying while and for loops to do various kinds of computations.
