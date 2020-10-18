@@ -26,7 +26,7 @@ videos:
    - title: "Looping algorithms"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
      duration: "14:02"
-
+quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125689"
 exercise_url: "lecture14.zip"
 ---
 
