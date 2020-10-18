@@ -2,8 +2,8 @@
 layout: module
 title: For Loops
 description:
-    - Intro to "for..in" syntax
-    - Using "for..in" with lists and sequences
+    - Intro to for loops syntax
+    - Using for loops with lists and sequences
 type: lecture
 draft: 0
 num: 14
