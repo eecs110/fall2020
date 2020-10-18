@@ -13,6 +13,7 @@ slides:
      url: https://docs.google.com/presentation/d/1Q25E7tk0wX5hFPdEHELz7eWcXtgxmNTpaq4mSpKtxUU/edit?usp=sharing
 due_date: 2020-10-16
 exercise_url: "lecture13.zip"
+quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125687"
 videos:
    - title: "Practice using while loops with if statements"
      url: "https://northwestern.zoom.us/rec/share/oyyaGLkD4YO4S7tE-nXWZDybAlDIkRUVJ7yrGrfSQq3GVEaeCLNNtOvN85s1WgmK.v93LSBUPWP9qBUdK?startTime=1602861600000"
