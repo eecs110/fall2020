@@ -1,3 +1,4 @@
+# name, address, city, state, zip, occupation
 people = [
     ['Tammy Spencer', '42022 Daniel Forest Apt. 201', 'Lake Amyhaven', 'Louisiana', '54479', 'Runner, broadcasting/film/video'],
     ['Amy Meyer', '5558 Brown Street Apt. 718', 'Calebport', 'Wyoming', '96398', 'Administrator, charities/voluntary organisations'],

@@ -72,7 +72,7 @@ layout: default
                                 {{ prefix }}
                             </span>
                         {% elsif prefix %} 
-                            <a class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
+                            <a id="l{{lecture.num}}" class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
                                 {{ prefix }} <i class="fas fa-link"></i>
                             </a>
                         {% endif %}

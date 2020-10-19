@@ -11,8 +11,8 @@ due_date: 2020-10-19
 slides: 
    - title: "More Loops: For Loops & Lists"
      url: https://docs.google.com/presentation/d/1EO7Lk5iv_k7dw5FgfLO13T1AD2-LpRzCd-uHtDSq8yM/edit?usp=sharing
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/1pvxr4V5eI6-FHzWgyegmPQbEha_Cw6-Xlb3DoDjudS4/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1w11NnZ2VfJ1nGCMob1C1CAp1DNDRWPrMBRYT3TsC9tI/edit?usp=sharing
 videos:
    - title: "Intro to for loops"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c52b7ba-2496-4e69-a5b8-ac5701804a89"
