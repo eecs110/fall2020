@@ -26,6 +26,11 @@ videos:
    - title: "Looping algorithms"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
      duration: "14:02"
+   - title: "Practice w/looping algorithms"
+     url: "https://northwestern.zoom.us/rec/share/Ws0oC3TM9xKkUfVKpo0deM4NXWYp6n3-wGV-EP3oezfuYb8RFyMhXiqZdcOt6oJ5.0yNvQPSuulM6DwMx?startTime=1603120502000"
+     duration: "49:32"
+     live: 1
+     
 quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125689"
 exercise_url: "lecture14.zip"
 ---
