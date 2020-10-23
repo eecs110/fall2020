@@ -29,9 +29,9 @@ videos:
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daf9154a-9a06-435b-839f-ac58000238d7
      duration: "12:38"
   - title: "Practice w/loops and animation"
-    url: https://northwestern.zoom.us/rec/share/uf1p0iWmYz9VMnLE2Am2GBRSGL_g1ori9Rn1oVDGrFWhAw0qJ1i6rfQYsVtGrKg8.RIj6ExQWVrRjX1B9?startTime=1603466168000
-    live: 1
-    duration: "1:02:58"
+     url: https://northwestern.zoom.us/rec/share/uf1p0iWmYz9VMnLE2Am2GBRSGL_g1ori9Rn1oVDGrFWhAw0qJ1i6rfQYsVtGrKg8.RIj6ExQWVrRjX1B9?startTime=1603466168000
+     live: 1
+     duration: "1:02:58"
 
      
 ---
