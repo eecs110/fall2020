@@ -16,10 +16,10 @@ due_date: 2020-10-21
 ---
 
 <a class="nu-button" href="/fall2020/course-files/tutorials/tutorial05.zip" target="_blank">
-    Lab Starter Files <i class="fas fa-download"></i>
+    Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
-<img class="module-image" src="/fall2020/assets/images/tutorial04/heart.png" />In this lab, you are going to design a customizable function that creates an image of **any** pixel art that can be represented as rows and columns of integers. The data structure that we will use to store these rows and columns of integers will be a "tuple of tuples" (see below). The purpose of this exercise is to help you feel a little bit more comfortable with tuples (and sequences in general), iteration, and functions. In addition to pixel art, many different kinds of entities can also be expressed using similar data formats (JPEG images, songs, DNA sequences, whatever).
+<img class="module-image" src="/fall2020/assets/images/tutorial04/heart.png" />In this tutorial, you are going to design a customizable function that creates an image of **any** pixel art that can be represented as rows and columns of integers. The data structure that we will use to store these rows and columns of integers will be a "tuple of tuples" (see below). The purpose of this exercise is to help you feel a little bit more comfortable with tuples (and sequences in general), iteration, and functions. In addition to pixel art, many different kinds of entities can also be expressed using similar data formats (JPEG images, songs, DNA sequences, whatever).
 
 ## Introduction: New Data Representations
 Below are two examples of two "tuple of tuples" that represent pixel art specifications. Note that "Frank" is made up of 11 rows and 9 columns, and the heart is 14 rows and 19 columns. Each number in the tuple represents a distinct color. 0 indicates that no color should be used (an empty pixel), but you get to pick which colors to use to represent 1, 2, and 3.
