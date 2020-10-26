@@ -44,6 +44,12 @@ videos:
 exercise_url: "lecture_10.zip"
 ---
 
+## Videos TODO:
+* skip first vid
+* Second vid: string functions (split, join, len, slicing)
+* Third vid: good
+* Worked examples: good
+
 Today, you will be learning to work with files --  including reading them, writing them, and appending to them. Because many file formats involve text, you will also be learning to work with some common string functions.
 
 One of the most important skills of a programmer is understanding how to do data manipulation across a variety of contexts and formats. Given that a vast quantity of data is stored in files, databases, etc., learning to access, manipulate, and write data in various formats for subsequent storage is a critical programming skill.
