@@ -26,7 +26,7 @@ for line in f.readlines():
             color=fill_color, stroke_width=1
         )
         x += pixel
-    y += pixel
+    y += pixel # go down to next row
 
 
 # Your code above this line
