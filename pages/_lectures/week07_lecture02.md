@@ -5,14 +5,14 @@ description:
     - reading from and writing to files
     - examining different file types
 type: lecture
-draft: 1
+draft: 0
 num: 17
 due_date: 2020-10-28
 slides: 
    - title: "Working with Files"
-     url: https://docs.google.com/presentation/d/1f0ld5xWppp_U8M2q8gUFk7dTdZ7JlDB2CWG5OLNZcI0/edit?usp=sharing
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1WpseHl8GaXUtVu_123-ZANk6kj1-tpxuvXqQTaU0eps/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/10PHJet0ugSaKPBIyelW8Gc31C5UjS0yuPI5jFAMEHVY/edit?usp=sharing
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: https://docs.google.com/presentation/d/1WpseHl8GaXUtVu_123-ZANk6kj1-tpxuvXqQTaU0eps/edit?usp=sharing
 readings:
   - title: "Ch6: Strings"
     author: "Severance"
@@ -23,32 +23,20 @@ readings:
     url: https://www.py4e.com/html3/07-files
     video_url: https://www.py4e.com/lessons/files
 videos:
-   - title: "L10a: Introduction"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4dfc24bc-19c9-43d5-a074-abbb00d29466"
-     duration: "18:29"
-   - title: "L10b: String & List Functions"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89508939-d7ab-4f4e-910a-abbb00d7e717"
+   - title: "L17a: String & List Functions"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e125524d-4800-4a54-848a-ac6200326f7e"
      duration: "10:15"
-   - title: "L10c: Reading & Writing Files"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a2e468-2312-4b9e-bd80-abbb00dafe4c"
+   - title: "L17b: Reading & Writing Files"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5641bed4-583f-4979-8e46-ac6200326fc3"
      duration: "8:00"
-   - title: "L10d: Some Example Programs"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9be0d79-b400-47c7-9ebc-abbb00ddba9c"
+   - title: "L17c: Some Example Programs"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79ff3149-5d1a-4385-a0e1-ac6200327003"
      duration: "5:39"
-   - title: "File Practice"
-     url: "https://northwestern.zoom.us/rec/share/wpRUMZep0jlIXrPixkPmeatiNajBX6a81nJI-qYEyhtU1pqqgc1DRpJRVtgXhYZu?startTime=1589488087000"
-     duration: "1:22:01"
-     live: 1
 
 
-exercise_url: "lecture_10.zip"
+exercise_url: "lecture17.zip"
 ---
 
-## Videos TODO:
-* skip first vid
-* Second vid: string functions (split, join, len, slicing)
-* Third vid: good
-* Worked examples: good
 
 Today, you will be learning to work with files --  including reading them, writing them, and appending to them. Because many file formats involve text, you will also be learning to work with some common string functions.
 
