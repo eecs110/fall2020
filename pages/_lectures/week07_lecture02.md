@@ -32,6 +32,11 @@ videos:
    - title: "L17c: Some Example Programs"
      url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79ff3149-5d1a-4385-a0e1-ac6200327003"
      duration: "5:39"
+   - title: "Practice working with files and string functions"
+     url: "https://northwestern.zoom.us/rec/share/7nhPw42zCZFr020TMF4F43DNe8pzVkvjf9fSYYIZDcSs4PFCbqJ0Ri-oKx0EmrUO.bUVJDQj6fHozOQYE"
+     duration: "52:28"
+     live: 1
+
 
 
 exercise_url: "lecture17.zip"
