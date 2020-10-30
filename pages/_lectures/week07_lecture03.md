@@ -3,6 +3,8 @@ layout: module
 title: More on Files & Strings + Error Handling
 type: lecture
 draft: 0
+description:
+    - Files continued
 num: 18
 due_date: 2020-10-30
 slides: 
