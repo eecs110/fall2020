@@ -6,7 +6,7 @@ description:
     - What kind of errors do try/except statements usually handle?
 type: tutorial
 abbreviation: Tutorial 7
-draft: 0
+draft: 1
 num: 4
 points: 3
 due_date: 2020-11-04
