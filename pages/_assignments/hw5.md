@@ -6,7 +6,7 @@ type: homework
 files: course-files/assignments/hw05.zip
 due_date: 2020-11-13
 points: 8
-draft: 1
+draft: 0
 ---
 <style>
     .bash-small .highlighter-rouge {
@@ -28,7 +28,11 @@ draft: 1
 > 1. Practice writing more complex programs
 
 In this assignment, you will be making a game of tic tac toe, where a player will be playing the computer (see video below). 
-<iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=78f21778-5676-4b8b-a28b-ab690109ff61&amp;v=1" width="620" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen="" allow="autoplay"></iframe>
+<iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=269492eb-30e6-4a0f-ba26-ac660037a06f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width="620" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen="" allow="autoplay"></iframe>
+
+
+<!-- <iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=269492eb-30e6-4a0f-ba26-ac660037a06f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe> -->
+
 
 ## Your Tasks
 Please write a program that accomplishes the following tasks:
