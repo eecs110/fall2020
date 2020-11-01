@@ -5,14 +5,14 @@ description:
     - Working with templates
     - Error handling
 type: lecture
-draft: 0
+draft: 1
 num: 19
 due_date: 2020-11-02
 slides: 
    - title: "More Files & Strings + Error Handling"
      url: "https://docs.google.com/presentation/d/11N9ZvuBaYrdLg4Dqz7mpoJmYq4OCS_mOFiEANpgVIss/edit?usp=sharing"
 #    - title: "Supplementary Slides for Live Lecture"
-#      url: ""
+#      url: https://docs.google.com/presentation/d/1C4gmNpWAxM0BQjMJMddWKRXxLb_0dQ6Ykth8dNRzq5k/edit?usp=sharing
 videos:
    - title: "L19a: Parsing file data"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05e566d5-61d2-44dc-8f14-ac66002c0d79
