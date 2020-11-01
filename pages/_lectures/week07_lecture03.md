@@ -1,6 +1,6 @@
 ---
 layout: module
-title: More on Files & Strings + Error Handling
+title: More on Files & Strings
 type: lecture
 draft: 0
 description:

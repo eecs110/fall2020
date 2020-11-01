@@ -1,10 +1,6 @@
 ---
 layout: module
-title: |
-    Contemporary Topics: What is ML / AI?
-description: 
-    - What is AI/ML?
-    - How does a machine learning program / system work?
+title: TBD
 type: lecture
 draft: 1
 num: 26
