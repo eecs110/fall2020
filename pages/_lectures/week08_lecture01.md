@@ -32,7 +32,10 @@ videos:
    - title: "L19f: Retrieving files via HTTP/HTTPS"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef9e3da6-0ba6-4b74-afaf-ac66002c5490
      duration: "10:25"
-    
+   - title: "Practice try/except (and short web server diversion)"
+     url: https://northwestern.zoom.us/rec/share/0SbtlWf99uFbuVNdwArYn22UB1ERgU6PqsLc9V14NsXIkDY9FFEgEHT-LkqJe5p6.5RIbKHkWBYF9BtFJ?startTime=1604333745000
+     duration: "51:12"
+     live: 1
 exercise_url: "lecture19.zip"
 ---
 
