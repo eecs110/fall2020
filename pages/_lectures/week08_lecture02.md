@@ -32,6 +32,10 @@ videos:
    - title: "L20d: Lists of dictionaries (Twitter)"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8d001fc-c385-4f3a-b8c5-ac66002d1cdc
      duration: "14:50"
+   - title: "Practice with dictionaries"
+     url: https://northwestern.zoom.us/rec/share/3SkTD0igmrYmcpSwaKliUopIKaRuyjEWtP0bwo9SRN3PQ4SEmn1yfwgLEHCOKK1v.NupDxRshetxgxCxK?startTime=1604506591000
+     duration: "52:39"
+     live: 1
 
 exercise_url: "lecture20.zip"
 ---
