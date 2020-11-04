@@ -1,7 +1,7 @@
 import urllib.request
 import json
 import ssl
-import pprint
+import pprint # module for making dictionaries more readable
 
 # write a program that:
 # 1. Prompts the user for a search term
@@ -18,9 +18,5 @@ url = 'https://www.apitutor.org/twitter/simple/1.1/search/tweets.json?q='
 url += search_term
 response = urllib.request.urlopen(url, context=context)
 statuses = json.loads(response.read().decode())
-# print(type(statuses))
-for item in statuses:
-    # print(type(item), item)
-    print(item.get('retweet_count'), item.get('text'))
-
-# pprint.pprint(statuses, depth=2) # The first value is another dictionary, the second is a list of dictionaries
+print(type(statuses), type(statuses[0]))
+pprint.pprint(statuses)

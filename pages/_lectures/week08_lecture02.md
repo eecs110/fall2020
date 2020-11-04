@@ -16,8 +16,8 @@ readings:
 slides: 
    - title: "Dictionaries"
      url: https://docs.google.com/presentation/d/1uPwFAl-2ZEfxp3DN7G5Sj2yVRPeKSKnv0WsPivu9-M4/edit?usp=sharing
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: ""
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1A0RHxCDvBN_xvz6NqxDJxX2hkQcpFBlG1C0DiJG8Bf8/edit?usp=sharing
 
 videos:
    - title: "L20a: Dictionary syntax / functionality"
