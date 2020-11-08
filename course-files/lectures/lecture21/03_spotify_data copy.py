@@ -3,14 +3,12 @@ import json
 import ssl
 import pprint
 
-# Write a program that only prints the text of the most popular 
-# tweet (given the search results).
+'''
+1. Prompt the user for a search term 
+2. Query the Spotify tracks endpoint for the search term
+3. Print the song name and the artist(s) who wrote it. 
+'''
 
-# necessary for accessing data via https protocol:
-
-# search for tracks: https://www.apitutor.org/spotify/simple/v1/search?type=track&q=beyonce
-# search for artists: https://www.apitutor.org/spotify/simple/v1/search?type=artist&q=beyonce
-# search albums: https://www.apitutor.org/spotify/simple/v1/search?type=album&q=beyonce
 context = ssl._create_unverified_context()
 
 search_term = 'Beyonce'

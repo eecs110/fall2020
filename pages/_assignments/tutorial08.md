@@ -6,7 +6,7 @@ description:
     - What kind of errors do try/except statements usually handle?
 type: tutorial
 abbreviation: Tutorial 8
-draft: 1
+draft: 0
 num: 8
 points: 3
 due_date: 2020-11-11
@@ -20,8 +20,8 @@ due_date: 2020-11-11
     }
 </style>
 
-<a class="nu-button" href="/fall2020/course-files/labs/lab08.zip" target="_blank">
-    Lab Starter Files <i class="fas fa-download"></i>
+<a class="nu-button" href="/fall2020/course-files/tutorials/tutorial08.zip" target="_blank">
+    Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
 
@@ -52,9 +52,4 @@ Please make the following enhancements to the `tictactoe_starter.py` file (which
 <iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=f65f5d64-6224-43b0-88f5-abbe00214651&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width="720" height="405" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## What to turn in (same deal as always)
-As described in the syllabus, there are two ways to earn full participation credit in each lab session:
-
-1. By attending them (synchronously), working through the exercises, and asking questions (as they arise).
-2. By turning in the lab exercise(s) ON CANVAS **before** the lab session.
-
-Whichever option you choose, you will be expected to know the material reviewed in the lab for the exam, and are encouraged to fully complete and submit the lab assignments (though this is not required if you attended the lab).
+Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial08` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**. 
