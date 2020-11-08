@@ -1,10 +1,17 @@
 ---
 layout: two-column
-title: Quiz 3 Review & Course Wrap-Up
+title: Cloud-Based Services
+description:
+    - Practice querying and displaying data with Yelp and Spotify
+    - Practice making an app (on the command line)
 type: lecture
-num: 27
 draft: 1
-points: 4
+num: 27
 due_date: 2020-11-20
+# videos:
+#     - url: ""
+#       title: ""
+#       duration: ""
+#       live: 1
 ---
-TBD
+This lecture will be a continuation of [Lecture 26](week10-lecture02). This time, we will focus on the Yelp API and some of the ways we might use it.

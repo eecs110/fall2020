@@ -1,25 +1,34 @@
 ---
 layout: module
-title: "Intro to Cloud-Based Services"
+title: Dictionary Algorithms
 description:
-    - Intro to HTTP
-    - Working with REST Endpoints
-    - Understanding query parameters
+    - Dictionaries for data analysis
+    - The "counting algorithm"
+    - The "grouping algorithm"
 type: lecture
-draft: 1
+draft: 0
 num: 23
 due_date: 2020-11-11
-exercise_url: "lecture_14.zip"
+exercise_url: "lecture23.zip"
 slides:
-   - title: "Intro to Cloud-Based Services"
-     url: https://docs.google.com/presentation/d/188radhpgFpQXm-7DiNPYb1zIr4uPLr7ecoN4OUNy_Ts/edit?usp=sharing
+   - title: "Using Dictionaries for Data Analysis"
+     url: "https://docs.google.com/presentation/d/1co8CTPIZvyZOAmfhQi4G4VBf7sBbdHw4d2ZODzl8xDM/edit?usp=sharing"
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: https://docs.google.com/presentation/d/1_uhcD_bxFsteRJUnUkNDzTWXHBcDGNhko5QUXc2msJo/edit?usp=sharing
 
 videos: 
-   - title: "Intro to Web Services"
-     url: https://northwestern.zoom.us/rec/share/-85bBOqgy11JAbeVuGDyd7AwOofXaaa81CZL-PFYyh719iFWkVY_64ntzwUCgVXt?startTime=1590697750000
-     duration: "1:19:00"
-     live: 1
-
+   - title: "L23a: Creating a Dictionary (Review)"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=398041de-dab6-4559-87d0-ac6d013d6fb2"
+     duration: "10:41"
+   - title: "L23b: Reading a List of Dictionaries (Review)"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=890ea419-526c-44e4-a495-ac6d013d9488"
+     duration: "13:37"
+   - title: "L23c: Creating a Tally"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e44fc806-f67b-4bac-836c-ac6d013db159"
+     duration: "14:28"
+   - title: "L23d: Grouping & Counting - Legislature"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4591ac02-1a0b-4043-a2b9-ac6d013dd11a"
+     duration: "20:10"
 ---
 
-Today we will be transitioning to working with Cloud-based data services, which we will be doing for the remainder of the quarter. I did not have time to make videos this week, but will record the lecture.
+Dictionaries are also very useful tools for data analysis. Today, we'll go over how dictionaries can help you to group, tally, and analyze data.
