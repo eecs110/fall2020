@@ -32,10 +32,11 @@ for row in reader(f_violations):
         counts_dict[business_name] += 1
 
 # 3. sorting it:
+from operator import itemgetter # import itemgetter; use it to access value
 items = counts_dict.items()
-sorted_items = sorted(items, key=lambda key_value: key_value[1], reverse=True)
+sorted_items = sorted(items, key=itemgetter(1), reverse=True)
 for item in sorted_items:
-    print(item[0], item[1])
+    print(item[1], '-', item[0])
 
 
 # 4. Formatting Added:

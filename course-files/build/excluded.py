@@ -18,10 +18,12 @@ EXCLUDED = [
     'solutions',
     'cpd.db',
     'build',
+    '.pyc',
     '__pycache__',
     '.ipynb_checkpoints',
     '.DS_Store',
     # 'images',
     '_site',
-    '.vscode'
+    '.vscode',
+    'lecture24.*.csv'
 ]
