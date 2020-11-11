@@ -20,4 +20,5 @@ course-files/**/results/*.jpg
 course-files/**/results/*.png
 course-files/**/results/*.json
 course-files/**/results/*.html
+course-files/lectures/lecture24/answers/files/*.csv
 my_token.py
