@@ -104,6 +104,19 @@ def make_oval(canvas, center, radius_x, radius_y, color='#FF4136', tag=None, str
         outline=outline
     )
 
+def get_moving_average(points, point, interval=3):
+    start = max(len(points) - 1, interval-2)
+    end = start - interval + 1
+    the_range = list(range(start, end, -1))
+    sum_of_points = point
+    for i in the_range:
+        try:
+            sum_of_points += points[i][1]
+        except:
+            sum_of_points += point
+    return sum_of_points / interval
+
+
 def make_bar_chart(data:dict, title='COVID-19 Data'):
     from tkinter import Canvas, Tk
     import random
@@ -121,12 +134,13 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
     max_val = max(*data.values())
     scale_factor = chart_height / max_val
     x = 2
-    bar_width = 4
 
     counter = 0
-    line_points = []
+    trend_line = []
     labels = []
-    for key in data.keys():
+    days = list(data.keys())[50:] #exclude Jan-Feb
+    bar_width = w / len(days)
+    for key in days:
         bar_height = int(data.get(key) * scale_factor)
         y = h - bar_height
         make_rectangle(canvas, (x, y), bar_width, bar_height)
@@ -139,9 +153,9 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
                 'day_text': tokens[0] + '/' + tokens[1],
                 'num_cases': data.get(key)
             })
-            line_points.append((x, y))
-        elif counter % 10 == 0:
-            line_points.append((x, y))
+        running_average = get_moving_average(trend_line, y)
+        print('running_average', y, running_average)
+        trend_line.append((x, running_average))
         x += bar_width
         counter += 1
 
@@ -151,11 +165,13 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
         'day_text': tokens[0] + '/' + tokens[1],
         'num_cases': data.get(key)
     })
-    line_points.append((x, y))
+    running_average = get_moving_average(trend_line, y)
+    trend_line.append((x, running_average))
 
     # draw line: a proxy for trend line, though not the
     # same as a running average.
-    make_line(canvas, line_points, curvy=True, color='#222222')
+    print(trend_line)
+    make_line(canvas, trend_line, curvy=True, color='#222222')
 
     # draw labels:
     for label in labels:
@@ -169,7 +185,7 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
             (x, y-30), 
             text=label_text,
             font=('Arial', 14),
-            anchor='center'
+            anchor='se'
         )
         bbox = canvas.bbox(label)
         # give bbox some padding:
