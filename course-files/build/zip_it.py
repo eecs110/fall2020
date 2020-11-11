@@ -7,20 +7,15 @@ from excluded import EXCLUDED
 def exclude(filename):
     import re
     from builtins import any
-    # file_tokens = filename.split('/')
-    # print(file_tokens)
-    # has_match = False
     for pattern in EXCLUDED:
         # for word in file_tokens:
         match = re.search(pattern, filename)
         try:
-            # print(pattern, match, match.group(0))
             if match.group(0):
-                # print(match.group(0))
                 return True
         except Exception:
             continue
-    #return any(word in file_tokens for word in EXCLUDED)
+    return False
 
 def zipfolder(foldername, target_dir):         
     zipobj = zipfile.ZipFile(foldername + '.zip', 'w', zipfile.ZIP_DEFLATED)
