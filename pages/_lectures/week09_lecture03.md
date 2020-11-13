@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: module
 title: Crawling & Analyzing Files
 description:
   - Understanding how a web crawler works
