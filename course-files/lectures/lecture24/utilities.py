@@ -46,6 +46,14 @@ def get_covid_file_links():
             data_files.append(url)
     return data_files
 
+def get_covid_file_links_no_bs4():
+    import json
+    file_path = get_file_path('covid_links.json')
+    f = open(file_path, 'r')
+    data_files = json.loads(f.read())
+    f.close()
+    return data_files
+
 def download_remote_file(url:str, file_path:str):
     context = ssl._create_unverified_context()
     response = urllib.request.urlopen(url, context=context)

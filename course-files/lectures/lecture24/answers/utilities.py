@@ -46,6 +46,14 @@ def get_covid_file_links():
             data_files.append(url)
     return data_files
 
+def get_covid_file_links_no_bs4():
+    import json
+    file_path = get_file_path('covid_links.json')
+    f = open(file_path, 'r')
+    data_files = json.loads(f.read())
+    f.close()
+    return data_files
+
 def download_remote_file(url:str, file_path:str):
     context = ssl._create_unverified_context()
     response = urllib.request.urlopen(url, context=context)
@@ -139,7 +147,7 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
     trend_line = []
     labels = []
     days = list(data.keys())[50:] #exclude Jan-Feb
-    bar_width = w / len(days)
+    bar_width = (w - 10) / len(days)
     for key in days:
         bar_height = int(data.get(key) * scale_factor)
         y = h - bar_height
@@ -154,7 +162,7 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
                 'num_cases': data.get(key)
             })
         running_average = get_moving_average(trend_line, y)
-        print('running_average', y, running_average)
+        # print('running_average', y, running_average)
         trend_line.append((x, running_average))
         x += bar_width
         counter += 1
@@ -170,7 +178,7 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
 
     # draw line: a proxy for trend line, though not the
     # same as a running average.
-    print(trend_line)
+    # print(trend_line)
     make_line(canvas, trend_line, curvy=True, color='#222222')
 
     # draw labels:
@@ -187,6 +195,7 @@ def make_bar_chart(data:dict, title='COVID-19 Data'):
             font=('Arial', 14),
             anchor='se'
         )
+        make_line(canvas, [(x, y, x, h)])
         bbox = canvas.bbox(label)
         # give bbox some padding:
         x1, y1, x2, y2 = bbox
