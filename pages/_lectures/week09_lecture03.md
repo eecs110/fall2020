@@ -11,11 +11,11 @@ exercise_url: "lecture24.zip"
 slides:
     - url: https://docs.google.com/presentation/d/1BTq4qiCfHoTlCm5ZITMg9Dpju5MQRNRHfbbSM0cHqCg/edit?usp=sharing
       title: "Making a Simple Web Crawler"
-# videos:
-#     - url: ""
-#       title: ""
-#       duration: ""
-#       live: 1
+videos:
+    - url: "https://northwestern.zoom.us/rec/share/8yCWTShFAVuZsEtMIyX9rQpQo_sTnFcLb1-r_ZggRWWpaMLqNDyjvs_d2iCdM2El.J2kyuNR6-86WTo1r?startTime=1605284299000"
+      title: "Live Lecture Exercise"
+      duration: "56:12"
+      live: 1
 
 ---
 
