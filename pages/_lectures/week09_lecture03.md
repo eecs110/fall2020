@@ -8,9 +8,6 @@ draft: 0
 num: 24
 due_date: 2020-11-13
 exercise_url: "lecture24.zip"
-slides:
-    - url: https://docs.google.com/presentation/d/1BTq4qiCfHoTlCm5ZITMg9Dpju5MQRNRHfbbSM0cHqCg/edit?usp=sharing
-      title: "Making a Simple Web Crawler"
 videos:
     - url: "https://northwestern.zoom.us/rec/share/8yCWTShFAVuZsEtMIyX9rQpQo_sTnFcLb1-r_ZggRWWpaMLqNDyjvs_d2iCdM2El.J2kyuNR6-86WTo1r?startTime=1605284299000"
       title: "Live Lecture Exercise"
@@ -18,10 +15,6 @@ videos:
       live: 1
 
 ---
-
-<a class="nu-button" href="/fall2020/course-files/lectures/lecture24.zip" target="_blank">
-    Exercise Files <i class="fas fa-download"></i>
-</a> 
 
 In the next two lectures, we will be doing a COVID-19 data analysis, pulling from a data repository that is organized and maintained by Johns Hopkins university:
 
