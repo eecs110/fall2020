@@ -10,7 +10,7 @@ utilities.download_all_data_files()
 
 # Step 2: Analyze all data pertaining to state over time...
 state = 'Illinois'
-county = None
+county = 'Cook'
 headers = ['Day', 'State', 'Total', 'Daily Total', 'Direction']
 if county:
     file_name = state.lower() + '_' + county.lower() + '.csv'
