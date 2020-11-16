@@ -5,7 +5,7 @@ description:
     - Practice querying and displaying data with Yelp and Spotify
     - Practice making an app (on the command line)
 type: lecture
-draft: 1
+draft: 0
 num: 27
 due_date: 2020-11-20
 # videos:

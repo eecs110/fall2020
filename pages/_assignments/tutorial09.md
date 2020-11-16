@@ -20,7 +20,10 @@ In this week's tutorial, you will be getting a preview of [Project 2](../assignm
 Please complete the following steps:
 
 ## Step 1: Setup
-Complete Steps A, B, C, and D in the "Setup" section of [Project 2](../assignments/p2#setup-please-read-carefully). If you have set everything up correctly, running the `tests/run_verification.py` python file will display the following output:
+
+Complete Steps A, B, C, and D in the "Setup" section of [Project 2](../assignments/p2#setup-please-read-carefully). Here are <a href="https://docs.google.com/presentation/d/1DppkdUpVxNPIRt6gkP9vouAbU4CFSP2wg7w4kUnbhg8/edit?usp=sharing" target="_blank">some tips for getting everything set up</a>.
+
+If you have set everything up correctly, running the `tests/run_verification.py` python file will display the following output:
 
 ```bash
 test_token (test_authentication.TestAuthentication) ... ok
