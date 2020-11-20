@@ -14,4 +14,6 @@ due_date: 2020-11-20
 #       duration: ""
 #       live: 1
 ---
-This lecture will be a continuation of [Lecture 26](week10-lecture02). This time, we will focus on the Yelp API and some of the ways we might use it.
+
+* <a href="https://forms.gle/8eaJEY1gZFbBXXgC7" target="_blank">Appreciations</a>: Take 30 seconds to thank someone from the course staff who helped you.
+* Today's lecture will be a continuation of [Lecture 26](week10-lecture02). This time, we will split time between Yelp and Spotify.
